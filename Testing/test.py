@@ -2,7 +2,7 @@ from tkinter import *
 
 window = Tk()
 window.geometry("420x560")
-window.title("test")
+window.title("Calculator")
 window.configure(background="#000000")
 
 current_expression = ""
@@ -116,7 +116,7 @@ def create_circle_button(parent, label, command=None):
     )
     circle_canvas.pack()
 
-    circle_canvas.create_oval(
+    oval_id = circle_canvas.create_oval(
         3,
         3,
         diameter - 3,
@@ -125,7 +125,7 @@ def create_circle_button(parent, label, command=None):
         outline="#dedede",
         width=2,
     )
-    circle_canvas.create_text(
+    text_id = circle_canvas.create_text(
         diameter / 2,
         diameter / 2,
         text=str(label),
@@ -133,8 +133,28 @@ def create_circle_button(parent, label, command=None):
         font=("Helvetica", 12, "bold"),
     )
 
-    if command is not None:
-        circle_canvas.bind("<ButtonRelease-1>", lambda _: command())
+    pressed_state = {"active": False}
+
+    def depress(_):
+        if pressed_state["active"]:
+            return
+        pressed_state["active"] = True
+        circle_canvas.itemconfig(oval_id, fill="#dedede")
+        circle_canvas.move(oval_id, 1, 1)
+        circle_canvas.move(text_id, 1, 1)
+
+    def release(_):
+        if not pressed_state["active"]:
+            return
+        pressed_state["active"] = False
+        circle_canvas.itemconfig(oval_id, fill="#f9f7f4")
+        circle_canvas.move(oval_id, -1, -1)
+        circle_canvas.move(text_id, -1, -1)
+        if command is not None:
+            command()
+
+    circle_canvas.bind("<ButtonPress-1>", depress)
+    circle_canvas.bind("<ButtonRelease-1>", release)
 
     return shadow_layer
 
@@ -143,11 +163,11 @@ button_column = Frame(window, bg="#000000")
 button_column.place(x=30, rely=1.0, anchor="sw", y=-20)
 
 layout = [
-    [None, None, None, "DEL"],
+    [None, None, None, None],
     [7, 8, 9, "X"],
     [4, 5, 6, "-"],
     [1, 2, 3, "+"],
-    [None, 0, None, "="],
+    [None, 0, "DEL", "="],
 ]
 
 
