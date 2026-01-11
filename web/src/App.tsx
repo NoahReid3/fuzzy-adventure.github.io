@@ -93,6 +93,43 @@ const questions: Question[] = [
   { compound: 'Sodium hydroxide (NaOH)', answer: 'soluble' },
   { compound: 'Potassium hydroxide (KOH)', answer: 'soluble' },
   { compound: 'Calcium hydroxide (Ca(OH)₂)', answer: 'soluble' },
+  
+  // Additional sodium, potassium, ammonium compounds - soluble
+  { compound: 'Sodium bromide (NaBr)', answer: 'soluble' },
+  { compound: 'Potassium chloride (KCl)', answer: 'soluble' },
+  { compound: 'Ammonium chloride (NH₄Cl)', answer: 'soluble' },
+  { compound: 'Sodium iodide (NaI)', answer: 'soluble' },
+  { compound: 'Potassium bromide (KBr)', answer: 'soluble' },
+  { compound: 'Ammonium nitrate (NH₄NO₃)', answer: 'soluble' },
+  
+  // Additional nitrates - all soluble
+  { compound: 'Barium nitrate (Ba(NO₃)₂)', answer: 'soluble' },
+  { compound: 'Magnesium nitrate (Mg(NO₃)₂)', answer: 'soluble' },
+  { compound: 'Zinc nitrate (Zn(NO₃)₂)', answer: 'soluble' },
+  { compound: 'Copper(II) nitrate (Cu(NO₃)₂)', answer: 'soluble' },
+  
+  // Additional chlorides - soluble
+  { compound: 'Aluminum chloride (AlCl₃)', answer: 'soluble' },
+  { compound: 'Zinc chloride (ZnCl₂)', answer: 'soluble' },
+  { compound: 'Barium chloride (BaCl₂)', answer: 'soluble' },
+  
+  // Additional sulfates - soluble
+  { compound: 'Potassium sulfate (K₂SO₄)', answer: 'soluble' },
+  { compound: 'Aluminum sulfate (Al₂(SO₄)₃)', answer: 'soluble' },
+  { compound: 'Zinc sulfate (ZnSO₄)', answer: 'soluble' },
+  { compound: 'Iron(II) sulfate (FeSO₄)', answer: 'soluble' },
+  
+  // Additional carbonates - insoluble
+  { compound: 'Zinc carbonate (ZnCO₃)', answer: 'insoluble' },
+  { compound: 'Iron(II) carbonate (FeCO₃)', answer: 'insoluble' },
+  { compound: 'Copper(II) carbonate (CuCO₃)', answer: 'insoluble' },
+  { compound: 'Nickel carbonate (NiCO₃)', answer: 'insoluble' },
+  
+  // Additional hydroxides - insoluble
+  { compound: 'Zinc hydroxide (Zn(OH)₂)', answer: 'insoluble' },
+  { compound: 'Copper(II) hydroxide (Cu(OH)₂)', answer: 'insoluble' },
+  { compound: 'Lead(II) hydroxide (Pb(OH)₂)', answer: 'insoluble' },
+  { compound: 'Barium hydroxide (Ba(OH)₂)', answer: 'soluble' }, // Barium hydroxide is soluble
 ]
 
 // Fisher-Yates shuffle algorithm
@@ -137,6 +174,8 @@ function App() {
   const [flashColor, setFlashColor] = useState<'green' | 'red' | null>(null)
   const [isAnswered, setIsAnswered] = useState(false)
   const [selectedIonCharge, setSelectedIonCharge] = useState<string | null>(null)
+  const [score, setScore] = useState(0)
+  const [totalAnswered, setTotalAnswered] = useState(0)
 
   useEffect(() => {
     if (isCorrect && message) {
@@ -155,6 +194,8 @@ function App() {
     if (selectedGame === 'solubility') {
       setShuffledQuestions(shuffleArray(questions))
       setCurrentQuestionIndex(0)
+      setScore(0)
+      setTotalAnswered(0)
     } else if (selectedGame === 'game2') {
       const questionsWithOptions = ionChargeQuestionsBase.map(q => ({
         ...q,
@@ -191,6 +232,8 @@ function App() {
     setIsAnswered(false)
     setCurrentQuestionIndex(0)
     setSelectedIonCharge(null)
+    setScore(0)
+    setTotalAnswered(0)
   }
 
   const handleAnswer = (answer: 'soluble' | 'insoluble') => {
@@ -201,6 +244,10 @@ function App() {
 
     setIsAnswered(true)
     setFlashColor(isCorrect ? 'green' : 'red')
+    setTotalAnswered(prev => prev + 1)
+    if (isCorrect) {
+      setScore(prev => prev + 1)
+    }
 
     setTimeout(() => {
       setFlashColor(null)
@@ -211,6 +258,8 @@ function App() {
         // Quiz complete - reshuffle and restart
         setShuffledQuestions(shuffleArray(questions))
         setCurrentQuestionIndex(0)
+        setScore(0)
+        setTotalAnswered(0)
       }
     }, 1000)
   }
@@ -341,6 +390,13 @@ function App() {
               >
                 ← Back to Menu
               </button>
+              {totalAnswered > 0 && (
+                <div className="mb-4 text-center">
+                  <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-semibold">
+                    Score: {score} / {totalAnswered} ({totalAnswered > 0 ? Math.round((score / totalAnswered) * 100) : 0}%)
+                  </div>
+                </div>
+              )}
               <div className="mb-6">
                 <h2 className="text-2xl font-bold text-gray-800 mb-2">
                   Question {currentQuestionIndex + 1} of {shuffledQuestions.length || questions.length}
