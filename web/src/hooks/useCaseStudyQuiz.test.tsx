@@ -201,9 +201,10 @@ describe('useCaseStudyQuiz', () => {
       }
       
       // Use similar text (case-insensitive, extra spaces) - should normalize to correct
+      // Add extra spaces and change case to test normalization
       act(() => {
         result.current.setCaseStudyAnswers({
-          point1: '  HIGH INFANT MORTALITY RATE  ',
+          point1: `  ${currentCaseStudy.point1.toUpperCase()}  `,
           point2: currentCaseStudy.point2.toLowerCase(),
           point3: currentCaseStudy.point3,
           psi: currentCaseStudy.psi,
