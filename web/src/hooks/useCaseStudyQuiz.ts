@@ -40,7 +40,6 @@ export const useCaseStudyQuiz = () => {
     
     // Similarity threshold (0.85 = 85% similarity required)
     const SIMILARITY_THRESHOLD = 0.85
-
     const results: {
       point1: 'correct' | 'incorrect'
       point2: 'correct' | 'incorrect'
