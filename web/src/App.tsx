@@ -66,7 +66,11 @@ function App() {
         )}
 
         {selectedGame === 'game5' && (
-          <FactsGame onBackToMenu={handleBackToMenu} questions={chemistryQuestions} />
+          <FactsGame
+            onBackToMenu={handleBackToMenu}
+            questions={chemistryQuestions}
+            showDontKnow
+          />
         )}
       </div>
     </div>

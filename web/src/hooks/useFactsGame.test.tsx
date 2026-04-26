@@ -119,4 +119,94 @@ describe('useFactsGame', () => {
     expect(result.current.total).toBe(0)
     expect(result.current.current).toBe(null)
   })
+
+  it('markDontKnow adds the current card to unknownList, advances, and dedupes', async () => {
+    const { result } = renderHook(() => useFactsGame(mockFacts))
+
+    await waitFor(() => {
+      expect(result.current.total).toBe(3)
+    })
+
+    expect(result.current.unknownList).toEqual([])
+
+    act(() => {
+      result.current.markDontKnow()
+    })
+
+    expect(result.current.unknownList).toEqual([{ question: 'Q1', answer: 'A1' }])
+    expect(result.current.current?.question).toBe('Q2')
+    expect(result.current.answerVisible).toBe(false)
+
+    act(() => {
+      result.current.markDontKnow()
+    })
+
+    expect(result.current.unknownList).toEqual([
+      { question: 'Q1', answer: 'A1' },
+      { question: 'Q2', answer: 'A2' },
+    ])
+    // After two markDontKnow calls we are on Q3; one next wraps to Q1
+    expect(result.current.current?.question).toBe('Q3')
+
+    act(() => {
+      result.current.goNext()
+    })
+    expect(result.current.current?.question).toBe('Q1')
+
+    act(() => {
+      result.current.markDontKnow()
+    })
+
+    expect(result.current.unknownList).toEqual([
+      { question: 'Q1', answer: 'A1' },
+      { question: 'Q2', answer: 'A2' },
+    ])
+  })
+
+  it('startStudyUnknown builds a study deck from unknownList; exit returns to the full set', async () => {
+    const { result } = renderHook(() => useFactsGame(mockFacts))
+
+    await waitFor(() => {
+      expect(result.current.total).toBe(3)
+    })
+
+    act(() => {
+      result.current.markDontKnow()
+    })
+    act(() => {
+      result.current.markDontKnow()
+    })
+    expect(result.current.unknownList).toHaveLength(2)
+    expect(result.current.studyingUnknown).toBe(false)
+
+    act(() => {
+      result.current.startStudyUnknown()
+    })
+
+    expect(result.current.studyingUnknown).toBe(true)
+    expect(result.current.total).toBe(2)
+    expect(['Q1', 'Q2']).toContain(result.current.current?.question)
+
+    act(() => {
+      result.current.exitStudyUnknown()
+    })
+
+    expect(result.current.studyingUnknown).toBe(false)
+    expect(result.current.total).toBe(3)
+  })
+
+  it('startStudyUnknown is a no-op when unknownList is empty', async () => {
+    const { result } = renderHook(() => useFactsGame(mockFacts))
+
+    await waitFor(() => {
+      expect(result.current.total).toBe(3)
+    })
+
+    act(() => {
+      result.current.startStudyUnknown()
+    })
+
+    expect(result.current.studyingUnknown).toBe(false)
+    expect(result.current.total).toBe(3)
+  })
 })
