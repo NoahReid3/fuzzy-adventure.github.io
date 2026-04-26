@@ -12,7 +12,6 @@ export const CaseStudyQuiz = ({ onBackToMenu }: CaseStudyQuizProps) => {
     caseStudyChecked,
     caseStudyResults,
     setCaseStudyAnswers,
-    checkAnswers,
     handleKeyDown,
     resetCaseStudy,
     reset,

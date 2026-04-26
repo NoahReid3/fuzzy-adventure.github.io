@@ -40,3 +40,8 @@ export interface CaseStudyResults {
   psi: 'correct' | 'incorrect' | null
 }
 
+export interface FactItem {
+  question: string
+  answer: string
+}
+

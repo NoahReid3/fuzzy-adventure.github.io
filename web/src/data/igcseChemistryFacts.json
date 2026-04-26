@@ -1,0 +1,622 @@
+[
+  {
+    "question": "What is an atom?",
+    "answer": "The smallest unit of an element that can exist independently."
+  },
+  {
+    "question": "What is a molecule?",
+    "answer": "Two or more atoms chemically bonded together."
+  },
+  {
+    "question": "What is an element?",
+    "answer": "A substance made of only one type of atom."
+  },
+  {
+    "question": "What is a compound?",
+    "answer": "A substance made from two or more elements chemically bonded."
+  },
+  {
+    "question": "What is a mixture?",
+    "answer": "Two or more substances physically combined, not chemically bonded."
+  },
+  {
+    "question": "What is the relative charge of a proton?",
+    "answer": "+1"
+  },
+  {
+    "question": "What is the relative charge of a neutron?",
+    "answer": "0 (neutral)"
+  },
+  {
+    "question": "What is the relative charge of an electron?",
+    "answer": "-1"
+  },
+  {
+    "question": "Where are protons and neutrons located?",
+    "answer": "In the nucleus of an atom."
+  },
+  {
+    "question": "Where are electrons located?",
+    "answer": "In shells around the nucleus."
+  },
+  {
+    "question": "What is the mass number?",
+    "answer": "The total number of protons and neutrons in an atom."
+  },
+  {
+    "question": "What is the atomic number?",
+    "answer": "The number of protons in an atom."
+  },
+  {
+    "question": "What are isotopes?",
+    "answer": "Atoms of the same element with the same number of protons and different numbers of neutrons."
+  },
+  {
+    "question": "What is the relative atomic mass (Ar)?",
+    "answer": "The weighted average mass of an atom of an element compared to 1/12 the mass of carbon-12."
+  },
+  {
+    "question": "What is a chemical symbol?",
+    "answer": "A one- or two-letter abbreviation for an element."
+  },
+  {
+    "question": "What is a chemical formula?",
+    "answer": "A representation showing the elements and number of atoms of those elements in a compound."
+  },
+  {
+    "question": "What is a balanced chemical equation?",
+    "answer": "An equation with equal numbers of atoms of each element on both sides."
+  },
+  {
+    "question": "What is the law of conservation of mass?",
+    "answer": "Mass is not created or destroyed in a chemical reaction."
+  },
+  {
+    "question": "What is a state symbol?",
+    "answer": "A symbol indicating the physical state of a substance: (s), (l), (g), (aq)."
+  },
+  {
+    "question": "What is filtration?",
+    "answer": "A method to separate an insoluble solid from a liquid/solution."
+  },
+  {
+    "question": "What is crystallisation?",
+    "answer": "A method to obtain a pure solid from a solution."
+  },
+  {
+    "question": "What is distillation?",
+    "answer": "A method to separate a liquid from a solution based on differences in boiling points."
+  },
+  {
+    "question": "What is fractional distillation?",
+    "answer": "A method to separate a mixture of liquids with different but similar boiling points."
+  },
+  {
+    "question": "What is chromatography?",
+    "answer": "A method to separate mixtures of soluble substances based on their solubility in a solvent (mobile phase)."
+  },
+  {
+    "question": "What is the periodic table?",
+    "answer": "A table of elements arranged by increasing atomic number."
+  },
+  {
+    "question": "What are groups in the periodic table?",
+    "answer": "Vertical columns of elements with similar chemical properties."
+  },
+  {
+    "question": "What are periods in the periodic table?",
+    "answer": "Horizontal rows of elements."
+  },
+  {
+    "question": "What is a noble gas?",
+    "answer": "An element in Group 0 with a full outer shell of electrons."
+  },
+  {
+    "question": "What is an alkali metal?",
+    "answer": "An element in Group 1 that reacts with water to form alkaline solutions."
+  },
+  {
+    "question": "What is a halogen?",
+    "answer": "An element in Group 7 that forms salts with metals."
+  },
+  {
+    "question": "What is an ion?",
+    "answer": "A charged particle formed when an atom gains or loses electrons."
+  },
+  {
+    "question": "What is a cation?",
+    "answer": "A positively charged ion."
+  },
+  {
+    "question": "What is an anion?",
+    "answer": "A negatively charged ion."
+  },
+  {
+    "question": "What is ionic bonding?",
+    "answer": "The electrostatic attraction between oppositely charged ions."
+  },
+  {
+    "question": "What is covalent bonding?",
+    "answer": "The sharing of electron pairs between two atoms."
+  },
+  {
+    "question": "What is metallic bonding?",
+    "answer": "The attraction between positive metal ions and delocalised electrons."
+  },
+  {
+    "question": "What is a simple molecular structure?",
+    "answer": "A structure with small molecules held together by weak intermolecular forces of attraction."
+  },
+  {
+    "question": "What is a giant ionic lattice?",
+    "answer": "A regular arrangement of oppositely charged ions held by strong electrostatic forces of attraction."
+  },
+  {
+    "question": "What is a giant covalent structure?",
+    "answer": "A 3D structure with many atoms bonded covalently in a large network."
+  },
+  {
+    "question": "What is a chemical reaction?",
+    "answer": "A process where substances are transformed into new substances."
+  },
+  {
+    "question": "What is a metal?",
+    "answer": "An element found to the left of the staircase in the periodic table that is typically hard, shiny, malleable, and conducts electricity and heat."
+  },
+  {
+    "question": "What is a non-metal?",
+    "answer": "An element found to the right of the staircase in the periodic table that is usually brittle, dull, and does not conduct electricity or heat."
+  },
+  {
+    "question": "What is the general reaction of metals with oxygen?",
+    "answer": "Metal + Oxygen → Metal oxide."
+  },
+  {
+    "question": "What is the general reaction of metals with acids?",
+    "answer": "Metal + Acid → Salt + Hydrogen gas."
+  },
+  {
+    "question": "What is the reactivity series?",
+    "answer": "A list of metals ranked by their reactivity with water and acids."
+  },
+  {
+    "question": "Which metal is most reactive in the reactivity series?",
+    "answer": "Potassium."
+  },
+  {
+    "question": "Which metal is least reactive in the reactivity series?",
+    "answer": "Gold."
+  },
+  {
+    "question": "What is displacement reaction?",
+    "answer": "A reaction where a more reactive metal displaces a less reactive metal from its compound."
+  },
+  {
+    "question": "What is thermal decomposition?",
+    "answer": "Breaking down of a compound using heat."
+  },
+  {
+    "question": "What is the test for carbon dioxide?",
+    "answer": "Bubble gas through limewater; it turns milky."
+  },
+  {
+    "question": "What is the test for hydrogen gas?",
+    "answer": "A lit splint makes a squeaky 'pop' sound."
+  },
+  {
+    "question": "What is the test for oxygen gas?",
+    "answer": "A glowing splint relights."
+  },
+  {
+    "question": "What is the test for chlorine gas?",
+    "answer": "Damp litmus paper turns white (bleached)."
+  },
+  {
+    "question": "What is rusting?",
+    "answer": "The corrosion of iron in the presence of oxygen and water."
+  },
+  {
+    "question": "How can rusting be prevented?",
+    "answer": "By painting, oiling, galvanising, or using sacrificial protection."
+  },
+  {
+    "question": "What is galvanising?",
+    "answer": "Coating iron with zinc to prevent rusting."
+  },
+  {
+    "question": "What is sacrificial protection?",
+    "answer": "Using a more reactive metal to protect iron from rusting."
+  },
+  {
+    "question": "What is an alloy?",
+    "answer": "A mixture of metals or a metal with another element."
+  },
+  {
+    "question": "Why are alloys harder than pure metals?",
+    "answer": "Different sized atoms distort layers, making them harder to slide over each other."
+  },
+  {
+    "question": "What is the composition of steel?",
+    "answer": "Iron and carbon."
+  },
+  {
+    "question": "What is the composition of stainless steel?",
+    "answer": "Iron, chromium, and nickel."
+  },
+  {
+    "question": "What is a use of aluminium?",
+    "answer": "Aircraft bodies due to low density and resistance to corrosion."
+  },
+  {
+    "question": "What is a use of copper?",
+    "answer": "Electrical wiring due to good electrical conductivity."
+  },
+  {
+    "question": "What is a use of iron?",
+    "answer": "Construction due to strength."
+  },
+  {
+    "question": "What is a use of zinc?",
+    "answer": "Galvanising to prevent rust."
+  },
+  {
+    "question": "What is a use of gold?",
+    "answer": "Jewellery and electronics due to conductivity and resistance to corrosion."
+  },
+  {
+    "question": "What is the flame test color for lithium?",
+    "answer": "Red."
+  },
+  {
+    "question": "What is the flame test color for sodium?",
+    "answer": "Yellow."
+  },
+  {
+    "question": "What is the flame test color for potassium?",
+    "answer": "Lilac."
+  },
+  {
+    "question": "What is the flame test color for calcium?",
+    "answer": "Orange-red."
+  },
+  {
+    "question": "What is the flame test color for copper?",
+    "answer": "Blue-green."
+  },
+  {
+    "question": "What is the test for ammonium ions?",
+    "answer": "Add sodium hydroxide and warm; ammonia gas produced turns damp red litmus paper blue."
+  },
+  {
+    "question": "What is the test for sulfate ions?",
+    "answer": "Add HCl and barium chloride; white precipitate forms."
+  },
+  {
+    "question": "What is the test for carbonate ions?",
+    "answer": "Add any acid; effervescence seen (carbon dioxide gas) which turns limewater milky."
+  },
+  {
+    "question": "What is the test for halide ions?",
+    "answer": "Add nitric acid and silver nitrate; chloride = white precipitate, bromide = cream precipitate, iodide = yellow precipitate."
+  },
+  {
+    "question": "What is the test for water?",
+    "answer": "Anhydrous copper(II) sulfate turns from white to blue."
+  },
+  {
+    "question": "What is the test for purity of water?",
+    "answer": "Pure water boils at 100°C and freezes at 0°C."
+  },
+  {
+    "question": "What is a precipitation reaction?",
+    "answer": "A reaction where an insoluble solid forms from two solutions."
+  },
+  {
+    "question": "What is a physical change?",
+    "answer": "A change that does not alter the chemical composition of a substance."
+  },
+  {
+    "question": "What is a chemical change?",
+    "answer": "A change that results in the formation of new substances."
+  },
+  {
+    "question": "What is an exothermic reaction?",
+    "answer": "A reaction that releases heat to the surroundings."
+  },
+  {
+    "question": "What is an endothermic reaction?",
+    "answer": "A reaction that absorbs heat from the surroundings."
+  },
+  {
+    "question": "Give an example of an exothermic reaction.",
+    "answer": "Combustion of fuels."
+  },
+  {
+    "question": "Give an example of an endothermic reaction.",
+    "answer": "Photosynthesis."
+  },
+  {
+    "question": "What is activation energy?",
+    "answer": "The minimum energy required for collisions to be successful and to start a chemical reaction."
+  },
+  {
+    "question": "What is a catalyst?",
+    "answer": "A substance that speeds up a reaction without being used up."
+  },
+  {
+    "question": "How does a catalyst work?",
+    "answer": "It provides alternative routes of lower activation energy."
+  },
+  {
+    "question": "What is the effect of temperature on reaction rate?",
+    "answer": "Increasing temperature increases reaction rate."
+  },
+  {
+    "question": "What is the effect of concentration on reaction rate?",
+    "answer": "Increasing concentration increases reaction rate."
+  },
+  {
+    "question": "What is the effect of surface area on reaction rate?",
+    "answer": "Increasing surface area increases reaction rate."
+  },
+  {
+    "question": "What is the effect of pressure on reaction rate (gases)?",
+    "answer": "Increasing pressure increases reaction rate."
+  },
+  {
+    "question": "What is a reversible reaction?",
+    "answer": "A reaction that can go forwards and backwards."
+  },
+  {
+    "question": "What is dynamic equilibrium?",
+    "answer": "When the forward and backward reactions occur at the same rate and there are constant concentrations of reactants and products."
+  },
+  {
+    "question": "What is Le Chatelier’s Principle?",
+    "answer": "If conditions change, the equilibrium shifts to oppose the change."
+  },
+  {
+    "question": "What is enthalpy change (ΔH)?",
+    "answer": "The heat energy change per mole in a reaction."
+  },
+  {
+    "question": "What is bond energy?",
+    "answer": "The energy required to break one mole of a bond in gaseous molecules."
+  },
+  {
+    "question": "How is energy change calculated from bond energies?",
+    "answer": "Energy in (Bonds broken) - Energy out (Bonds formed)."
+  },
+  {
+    "question": "What is calorimetry?",
+    "answer": "The measurement of heat changes in chemical reactions."
+  },
+  {
+    "question": "What is the unit of enthalpy change?",
+    "answer": "Kilojoules per mole (kJ/mol)."
+  },
+  {
+    "question": "What is a fuel?",
+    "answer": "A substance that releases energy when burned."
+  },
+  {
+    "question": "What is combustion?",
+    "answer": "Burning a substance in oxygen to release energy."
+  },
+  {
+    "question": "What is complete combustion?",
+    "answer": "Combustion with sufficient oxygen producing CO₂ and H₂O."
+  },
+  {
+    "question": "What is incomplete combustion?",
+    "answer": "Combustion with limited oxygen producing CO and carbon (soot)."
+  },
+  {
+    "question": "What is electrolysis?",
+    "answer": "The decomposition of a compound using electricity."
+  },
+  {
+    "question": "What is an electrolyte?",
+    "answer": "A liquid/solution that conducts electricity and is decomposed in electrolysis."
+  },
+  {
+    "question": "What is the anode?",
+    "answer": "The positive electrode in electrolysis."
+  },
+  {
+    "question": "What is the cathode?",
+    "answer": "The negative electrode in electrolysis."
+  },
+  {
+    "question": "What is oxidation?",
+    "answer": "Loss of electrons or gain of oxygen."
+  },
+  {
+    "question": "What is reduction?",
+    "answer": "Gain of electrons or loss of oxygen."
+  },
+  {
+    "question": "What is a redox reaction?",
+    "answer": "A reaction involving both oxidation and reduction."
+  },
+  {
+    "question": "What is the use of electrolysis in industry?",
+    "answer": "Extracting reactive metals like aluminium."
+  },
+  {
+    "question": "What is the pH scale?",
+    "answer": "A scale from 0 to 14 measuring strength of acidity or alkalinity."
+  },
+  {
+    "question": "What is a neutral solution?",
+    "answer": "A solution with pH 7."
+  },
+  {
+    "question": "What is an acid?",
+    "answer": "A substance with pH less than 7 that produces H⁺ ions in solution."
+  },
+  {
+    "question": "What is an alkali?",
+    "answer": "A substance with pH greater than 7 that produces OH⁻ ions in solution."
+  },
+  {
+    "question": "What is a universal indicator?",
+    "answer": "A mixture of indicators showing a range of colours for different pH levels."
+  },
+  {
+    "question": "What is titration?",
+    "answer": "A method to determine the concentration of an acid or alkali."
+  },
+  {
+    "question": "What is organic chemistry?",
+    "answer": "The study of compounds containing carbon."
+  },
+  {
+    "question": "What is a hydrocarbon?",
+    "answer": "A compound made of only hydrogen and carbon atoms."
+  },
+  {
+    "question": "What is the general formula for alkanes?",
+    "answer": "CnH2n+2"
+  },
+  {
+    "question": "What is the general formula for alkenes?",
+    "answer": "CnH2n"
+  },
+  {
+    "question": "What is the functional group of alkenes?",
+    "answer": "C=C double bond."
+  },
+  {
+    "question": "What is the functional group of alcohols?",
+    "answer": "–OH (hydroxyl group)."
+  },
+  {
+    "question": "What is the functional group of carboxylic acids?",
+    "answer": "–COOH (carboxyl group)."
+  },
+  {
+    "question": "What is an isomer?",
+    "answer": "Compounds with the same molecular formula but different structural formula."
+  },
+  {
+    "question": "What is combustion?",
+    "answer": "Burning a substance in oxygen."
+  },
+  {
+    "question": "What are the products of complete combustion of hydrocarbons?",
+    "answer": "Carbon dioxide and water."
+  },
+  {
+    "question": "What are the products of incomplete combustion?",
+    "answer": "Carbon monoxide, carbon (soot), and water."
+  },
+  {
+    "question": "What is addition reaction?",
+    "answer": "A reaction where atoms are added to a molecule across a double bond."
+  },
+  {
+    "question": "What is polymerisation?",
+    "answer": "Joining many small molecules (monomers) to form a large molecule (polymer)."
+  },
+  {
+    "question": "What is a monomer?",
+    "answer": "A small molecule that can join with others to form a polymer."
+  },
+  {
+    "question": "What is a polymer?",
+    "answer": "A large molecule made from repeating units of monomers."
+  },
+  {
+    "question": "Give an example of a synthetic polymer.",
+    "answer": "Polyethene."
+  },
+  {
+    "question": "What is cracking?",
+    "answer": "Breaking down long chain alkanes into shorter alkanes and alkenes, that have more uses."
+  },
+  {
+    "question": "Why is cracking important?",
+    "answer": "It produces alkenes (which can be used to make polymers) and alkanes (used as fuels) from long-chain hydrocarbons."
+  },
+  {
+    "question": "What is the test for alkenes?",
+    "answer": "Add bromine water; it turns colourless."
+  },
+  {
+    "question": "What is fermentation?",
+    "answer": "Conversion of sugars into ethanol and carbon dioxide by yeast."
+  },
+  {
+    "question": "What conditions are needed for fermentation?",
+    "answer": "Warm temperature (30 degrees C), absence of oxygen, presence of yeast."
+  },
+  {
+    "question": "What is the word equation for fermentation?",
+    "answer": "Glucose → Ethanol + Carbon dioxide."
+  },
+  {
+    "question": "What is the use of ethanol?",
+    "answer": "Used in alcoholic drinks, fuels, and solvents."
+  },
+  {
+    "question": "What is the reaction of alcohols with carboxylic acids?",
+    "answer": "Forms esters and water (esterification)."
+  },
+  {
+    "question": "What is an ester?",
+    "answer": "A compound formed from an alcohol and a carboxylic acid."
+  },
+  {
+    "question": "What is the functional group of esters?",
+    "answer": "–COO–"
+  },
+  {
+    "question": "What is the use of esters?",
+    "answer": "Used in perfumes and flavourings."
+  },
+  {
+    "question": "What is the homologous series?",
+    "answer": "A family of compounds with the same functional group and similar chemical properties."
+  },
+  {
+    "question": "What are the properties of alkanes?",
+    "answer": "Saturated, relatively unreactive, undergo combustion and substitution reactions."
+  },
+  {
+    "question": "What are the properties of alkenes?",
+    "answer": "Unsaturated, reactive, undergo addition reactions."
+  },
+  {
+    "question": "What is the difference between saturated and unsaturated compounds?",
+    "answer": "Saturated have single bonds only; unsaturated have double or triple bonds."
+  },
+  {
+    "question": "What is the molecular formula of methane?",
+    "answer": "CH4"
+  },
+  {
+    "question": "What is the molecular formula of ethene?",
+    "answer": "C2H4"
+  },
+  {
+    "question": "What is the molecular formula of ethanol?",
+    "answer": "C2H5OH"
+  },
+  {
+    "question": "What is the molecular formula of ethanoic acid?",
+    "answer": "CH3COOH"
+  },
+  {
+    "question": "What is the process of making ethanol industrially?",
+    "answer": "Hydration of ethene with steam in the presence of a catalyst."
+  },
+  {
+    "question": "What is biodegradable?",
+    "answer": "A substance that can be broken down by microorganisms."
+  },
+  {
+    "question": "Why are plastics a pollution problem?",
+    "answer": "They are non-biodegradable and accumulate in the environment."
+  }
+]

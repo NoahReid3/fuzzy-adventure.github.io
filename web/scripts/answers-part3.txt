@@ -1,0 +1,85 @@
+Intense surface heating that makes air rise and form cumulus clouds and heavy rain, often in the tropics, convectional rainfall.
+Rain when warm and cold air masses meet at a front; the warm air rises, cools, and condenses, frontal (cyclonic) rainfall.
+Lines on a weather map joining places of equal air pressure, used to show pressure pattern, isobars.
+A low-pressure system (cyclone) with rising air, cloud, and often rain and strong winds, in mid-latitudes called a depression.
+A high-pressure system with sinking air, often clear skies and light winds, an anticyclone.
+The natural process where certain gases in the atmosphere trap outgoing heat, warming the surface, the greenhouse effect.
+The long-term rise in average global temperatures linked to human extra greenhouse gases, global warming.
+Long-term change in temperature, rainfall, storm patterns, or sea level, including human and natural causes, climate change.
+The total greenhouse gas emissions caused by a person, product, or place, often in CO₂ equivalent, a carbon footprint.
+An energy source that is naturally renewed (e.g. sun, wind, water) and not used up on a human timescale, renewable energy.
+A long period when rainfall is much below normal, causing water shortage and crop stress, a drought.
+When water covers land that is usually dry, from heavy rain, storm surge, or snowmelt, a flood.
+Unusually severe heat, cold, storm, or rainfall away from the long-term average, an extreme weather event.
+A natural process (e.g. earthquake, flood) that can harm people and property, a natural hazard.
+The chance that a hazard will occur and cause harm, combining hazard, exposure, and vulnerability, risk in geography.
+Actions to reduce causes or size of a hazard or emissions, e.g. building codes or cutting CO₂, mitigation.
+Changes in behaviour, design, or planning to cope with hazard or climate effects that cannot be fully stopped, adaptation.
+A sudden shaking of the ground caused by movement at a plate boundary or along a fault, releasing stress, an earthquake.
+Movement and stress release at plate boundaries or along faults when rock breaks and slips, what causes earthquakes.
+A line where two tectonic plates meet, with different relative motion, a plate boundary.
+Where plates move apart; magma may rise and new crust forms, e.g. mid-ocean ridge, constructive (divergent) boundary.
+Where plates collide; one may be subducted, with earthquakes, volcanoes, and mountains, destructive (convergent) boundary.
+Where plates slide past each other horizontally, with earthquakes but little volcanism, conservative (transform) boundary.
+The point on the Earth’s surface directly above the earthquake focus, where shaking is often strongest, the epicentre.
+The point inside the Earth where the earthquake slip starts, at depth, the focus (or hypocentre).
+A vent through which magma reaches the surface, often building a cone, a volcano.
+Molten rock stored beneath the surface, within the Earth, magma.
+Molten rock that has erupted onto the surface, lava.
+An intense rotating low-pressure storm over tropical oceans, with very strong winds and heavy rain, tropical cyclone or hurricane.
+Warm sea (about 26 °C+), moisture, and Coriolis spin allow a low to deepen into a rotating storm, causes of tropical storms.
+A series of very long-wavelength sea waves, often from undersea earthquakes or landslides, a tsunami.
+Displacement of water from seafloor earthquakes, volcanoes, or large landslides into the sea, what creates a tsunami.
+A logarithmic scale of earthquake size based on shaking recorded (used historically), the Richter scale (magnitude scale).
+The amount of energy released at the source of an earthquake, shown as a single magnitude number, what magnitude measures.
+An instrument that records ground motion and draws a seismogram, a seismograph.
+A broad, gently sloping volcano made of runny lava flows, with non-explosive eruptions, a shield volcano.
+A steep-sided volcano made of layers of lava and ash, with explosive and viscous lava, a composite (strato) volcano.
+A bowl-shaped depression at a volcano’s summit, a crater.
+The release of magma, gas, and ash from a volcano, an eruption.
+Ash and fine particles blown high into the atmosphere during a volcanic eruption, an ash cloud.
+Damage or death that happens at the same time as the hazard, e.g. buildings collapsing in an earthquake, primary effect.
+Problems that follow the primary event, e.g. disease after flooding or fires after earthquake, secondary effect.
+Immediate help in the first hours and days: rescue, shelter, food, and medical care, short-term response.
+Rebuilding, insurance, better building standards, and recovery over months to years, long-term response.
+Organised ways to reduce harm from hazards: predict, prepare, respond, and recover, hazard management.
+Using science to state when/where a hazard may happen, hazard prediction.
+Education, drills, and plans so people know what to do before a hazard, preparedness.
+Continuous observation of volcanoes, earthquakes, or weather to give early warning, hazard monitoring.
+Moving people out of a dangerous area before or during a hazard, evacuation.
+An area mapped as likely to be hit by a hazard, with rules on building and use, a hazard zone.
+The conditions of a place or group that make harm from a hazard more likely, vulnerability.
+The ability of a community or system to recover from or adapt to a hazard, resilience.
+Money, goods, or experts given to help after a hazard, from governments or NGOs, aid in hazard management.
+Help sent from other countries after a disaster, e.g. relief flights and funds, international aid.
+Actions by local people, communities, and councils right after a hazard, local response.
+National laws, funding, and military or civil defence organised by the state, government response.
+Rebuilding infrastructure, homes, and livelihoods after damage, reconstruction.
+Identifying probability and impact of hazards to guide planning and insurance, risk assessment.
+A rise in sea surface under a storm that floods coasts when combined with wind and waves, a storm surge (hazard context).
+The calm, clear, low-wind centre of a tropical storm, the eye.
+A scale (e.g. Saffir–Simpson) that groups storms by wind speed and damage potential, category scale for storms.
+When water covers land as a harmful event, including from rivers or sea, flooding as a hazard.
+Heavy rain, snowmelt, or blocked channel increasing discharge beyond channel capacity, causes of river flooding.
+Storm surge, high tides, or low pressure raising sea level onto the land, causes of coastal flooding.
+Material moving downslope as a coherent or broken mass on a slip surface, a landslide.
+A fast flow of mud and debris down a valley, often after heavy rain, a mudflow.
+Rocks or debris falling freely down a steep slope, a rockfall (slope hazard context).
+Design and materials that reduce damage in earthquakes, wind, or floods, hazard-resistant building.
+Official messages and technology that warn people before a hazard arrives, early warning system.
+Immediate food, shelter, and supplies after a disaster, disaster relief.
+Temporary housing for people who have lost homes, emergency shelter.
+Food supplied to people who cannot obtain it after a disaster, food aid.
+Doctors, medicine, and hospitals sent to treat the injured, medical aid.
+Teams that find and help people trapped after a collapse or flood, search and rescue.
+Broken roads, power, water, and communications after a hazard, infrastructure damage.
+Lost jobs, business, and reconstruction cost from a hazard, economic loss.
+Harm to ecosystems, soil, water, and air from a hazard or its effects, environmental damage.
+People forced to leave home but still in the country, or mass movement away from danger, population displacement.
+A camp of temporary shelter for refugees or displaced people, often with UN or NGO support, refugee camp.
+A map showing where different hazards are likely or severe, for planning, a hazard map.
+Using planning rules to ban or limit building in dangerous areas, zoning in hazard management.
+Spreading the cost of damage through policies that pay out after events, insurance in hazard management.
+Local training, plans, and networks so people know what to do, community preparedness.
+A practice exercise to test response to earthquakes, fires, or storms, a drill in hazard preparation.
+Structural and non-structural actions that lower probability or impact of harm, risk reduction.

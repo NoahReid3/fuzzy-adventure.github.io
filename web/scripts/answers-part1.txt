@@ -1,0 +1,85 @@
+The average number of people per unit of area, usually people per km², showing how crowded a place is.
+Total population ÷ total land area of the same unit (often people per km²).
+A situation where a population is larger than the local resources, environment, or services can sustainably support (or exceeds a sustainable level).
+A situation with too few people to use available resources, jobs, and services fully; often means labour and tax shortages.
+The number of live births per 1,000 people in the population in one year.
+The number of deaths per 1,000 people in the population in one year.
+The change in population size caused by the balance between births and deaths (it excludes migration in its narrow sense).
+It is found from birth rate minus death rate, or (births − deaths) in a time period, often expressed as a % or per 1,000.
+The count of all people in an area (or country) at a given time; a single total at one moment.
+The number of deaths of children under one year old per 1,000 live births in a year.
+The average number of years a person in a place or group is expected to live, if current death rates continue.
+The ratio of people not in the working age group (dependents) to the working-age population, often as a % or a ratio to 100 workers.
+A population structure with a high and rising share of older people, usually linked to low birth rates and long life expectancy.
+A population with a high proportion of young people and a high birth rate, often shown as a wide base on a population pyramid.
+The movement of people to live in a new place, usually when crossing a clear boundary, for a long period or permanently.
+The movement of people into a place or country to live (in-migration).
+The movement of people out of a place or country to live elsewhere (out-migration).
+Negative conditions that make people want to leave a place, e.g. poverty, war, or lack of jobs.
+Advantages that attract people to a place, e.g. jobs, family links, or better services; reasons to come to a destination.
+Movement where people are compelled to move by conflict, human rights abuse, or disaster, without a real free choice; includes refugees in many cases.
+Migration people choose, mainly for economic or family reasons, when they are not forced to go.
+Movement of people from rural areas to towns and cities, often for jobs, services, and education; rural-to-urban shift.
+The growth in the share of a country’s (or world’s) population living in urban areas, and the building of more towns and cities.
+The way a population is spread out over a region, e.g. clustered, even, or sparse; the pattern in space, often mapped as density.
+A diagram (often a pair of back-to-back or stacked bars) of population by five-year age groups and sex, showing a population’s structure.
+A very young age structure, high birth rate, and rapid population growth, shown by many people in the youngest groups at the base.
+A low share of people in the oldest age groups, e.g. because of a falling population, low life expectancy, or past high death rates; often a small top to the diagram.
+The maximum population (or use level) that an area’s environment and resources can support over a long time without long-term damage.
+Rules and programmes by a government to influence population (birth rate, age structure) or sometimes migration, e.g. through laws, cash benefits, or education.
+A policy to encourage a higher birth rate, e.g. through child benefits, parental leave, or pro-family messages.
+A policy to limit births, e.g. one-child type rules, free contraception, and education to reduce family size.
+The long-run fertility (about 2.1 children per couple in HICs) that would keep population size stable if nothing else changes.
+A migrant who moves mainly to get better-paid work, rather than to flee war or persecution.
+A person who has been forced to leave their country, due to a well-founded fear of persecution, war, or violence, and seeks another state’s protection.
+A person who has left their own country, applied in another for protection, and is waiting for a decision on whether they are a refugee.
+The annual % change in total population, including natural change and, in full definitions, net migration, shown as a % of the total.
+An official count of everyone in a country, usually on a set day, to collect data on who lives where; often every five or ten years.
+A model of how total population, birth rate, and death rate change in stages as a country’s economy and society develop, from high BR/DR to low BR/DR and ageing.
+People moving to live in another part of the same country, without changing country, e.g. to find a job; internal migration.
+People moving to live in another country, across an international border, for a long time or to settle in that country.
+A place where people have their homes, from a few houses to a large city, i.e. a group of buildings where people live.
+The physical features of a place where a settlement is built, e.g. good drainage, water supply, and defendable or dry ground.
+How a place is set relative to other places, e.g. on a route, near resources, and its links to larger centres (access and connectivity), i.e. its situation in the area.
+A small settlement, usually in the countryside, with few services and a low population density, i.e. rural.
+A large, built-up place, non-agricultural in main function, with many people, jobs, and services, i.e. a town or city in character; urban.
+A very small cluster of a few homes, the smallest in the size hierarchy, with few or no services.
+A settlement larger than a hamlet, with a small set of local services, e.g. a shop, school, and church, often in rural areas.
+A medium-sized place with a wider than local set of services and jobs, but smaller than a city, i.e. a town, not a village or a city in scale.
+A large place with a wide range of services, jobs, and often regional government or culture; often above a set population or by function, i.e. a city.
+A very large city, usually over 10 million people, often formed by merging of built-up areas, i.e. a huge city region, megacity.
+The ordering of settlements from largest (e.g. city) with the most and highest-level services, down to the smallest (e.g. hamlet) with only basic or few.
+The area from which a settlement or a service draws its customers, workers, or support; the area “influenced” by that centre, often in travel time.
+In geography, a part of the economy (or a business) that does not make physical products but provides something people use, e.g. retail, health, or transport.
+The minimum number of people needed in an area to support a service and keep that service viable, i.e. the minimum “market” size.
+The maximum distance people will travel to use a service, or the distance a good or service is supplied, often in km or minutes, i.e. service range.
+The type of use an area of land is put to, e.g. housing, industry, farming, or transport, as shown on a land-use map, i.e. what the land is used for.
+The central zone of a city, with offices, key shops, and very high land values; the core business and retail heart of the urban area, Central Business District.
+The zone of older, often inner-city, housing and mixed use around the CBD, sometimes with decline or regeneration, i.e. the inner city ring.
+The edge of the built-up area where the city meets the countryside, often with new housing and industry, i.e. the urban-rural edge.
+The movement of middle-class and wealthier people from inner cities to suburbs and the urban fringe, often for a better house and environment.
+The spreading of a city outward over rural land, often in a low-density, car-based form, with loss of open land, i.e. urban growth without tight planning, sprawl.
+People and investment moving back into the inner city, often to new flats, converted warehouses, and waterfronts, i.e. city-centre living reviving, re-urbanisation.
+The movement of people, jobs, and services out of big cities to smaller towns, villages, or the countryside, often for quality of life, counter-urbanisation.
+A poor, self-built, often unplanned area of makeshift homes, with little or poor services, common on the edge of many LIC/MIC cities, i.e. shanty town, informal area.
+A settlement of homes built on land the residents do not legally own, without planning permission, often with few services, i.e. squatter or informal housing.
+Economic activities that are not officially registered, taxed, or regulated, e.g. street selling and unregistered work, the informal (shadow) sector.
+Economic activities that are legal, registered, and taxed, with normal labour and business rules, i.e. the official economy, formal sector.
+The planned improvement and rebuilding of an old urban area, e.g. new housing, shops, and public space on run-down land, i.e. urban renewal or regeneration.
+The process by which richer people move into a low-income area, property prices rise, and original residents are priced out, changing the area’s social character.
+Land that has been built on or used for development before, e.g. an old factory site, re-used before building on new countryside, i.e. previously developed, brownfield.
+Land that has not been built on before, usually in the open countryside, used for new development, i.e. a greenfield site, open field site.
+A person who lives in one place (e.g. a suburb) and travels to work or study in another, usually daily, i.e. a daily journey-to-work person.
+The highest land and property values, usually in or near the CBD, where people pay most to be near the most accessible sites, i.e. the peak value point.
+A zone planned or used mainly for factories, industry, and warehouses, with limited housing, an industrial or factory zone.
+A zone where most land is for housing, with little heavy industry, i.e. a mainly residential or housing area.
+A zone of shops, offices, and services, often in or near the city centre, i.e. retail and business, commercial use.
+A linked system of roads, railways, paths, and ports (and sometimes air) that moves people, goods, and information between places, i.e. the transport system.
+The control and design of how land in towns and cities is used, through plans, transport, and zoning, to make places work better, i.e. town or urban planning.
+A city that tries to meet people’s present social, economic, and environmental needs without stopping future people meeting theirs, i.e. sustainable development at the city level.
+When vehicles on a road or network are so many that flow slows, delays grow, and time and fuel are wasted, i.e. road congestion, traffic jams, traffic congestion.
+A body of water flowing in a natural channel, from a source to a sea, lake, or other water body, i.e. a natural watercourse, river, or large stream.
+The area of land drained by a river and all of its tributaries, bounded by a watershed; the river’s catchment or drainage basin.
+A line of high land separating two drainage basins, i.e. a drainage divide, watershed, or catchment edge.
+A smaller stream or river that flows into a larger one, a feeder or joining stream, which is called a tributary.
+The point where two rivers or streams meet and their channel waters combine, a river junction, i.e. a confluence.

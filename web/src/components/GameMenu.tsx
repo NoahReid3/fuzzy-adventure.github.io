@@ -7,10 +7,15 @@ interface GameMenuProps {
 
 export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
   const handleGameSelect = (game: GameType) => {
-    if (game === 'solubility' || game === 'game2' || game === 'game3') {
+    if (
+      game === 'solubility' ||
+      game === 'game2' ||
+      game === 'game3' ||
+      game === 'game4' ||
+      game === 'game5'
+    ) {
       onGameSelect(game)
     }
-    // Other games will be implemented later
   }
 
   return (
@@ -24,15 +29,29 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
             <button
               key={game}
               onClick={() => handleGameSelect(game)}
-              disabled={game !== 'solubility' && game !== 'game2' && game !== 'game3'}
+              disabled={
+                game !== 'solubility' &&
+                game !== 'game2' &&
+                game !== 'game3' &&
+                game !== 'game4' &&
+                game !== 'game5'
+              }
               className={`px-6 py-4 text-xl font-semibold rounded-xl shadow-lg transition-all transform ${
-                game === 'solubility' || game === 'game2' || game === 'game3'
+                game === 'solubility' ||
+                game === 'game2' ||
+                game === 'game3' ||
+                game === 'game4' ||
+                game === 'game5'
                   ? 'bg-blue-500 text-white hover:bg-blue-600 hover:scale-105 active:scale-95'
                   : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
               }`}
             >
               {gameTitles[game as Exclude<GameType, null>]}
-              {game !== 'solubility' && game !== 'game2' && game !== 'game3' && (
+              {game !== 'solubility' &&
+                game !== 'game2' &&
+                game !== 'game3' &&
+                game !== 'game4' &&
+                game !== 'game5' && (
                 <span className="block text-sm mt-1 font-normal">Coming Soon</span>
               )}
             </button>

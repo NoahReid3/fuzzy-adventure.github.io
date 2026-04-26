@@ -1,0 +1,340 @@
+The average number of people per unit of area, usually people per km², showing how crowded a place is.
+Total population ÷ total land area of the same unit (often people per km²).
+A situation where a population is larger than the local resources, environment, or services can sustainably support (or exceeds a sustainable level).
+A situation with too few people to use available resources, jobs, and services fully; often means labour and tax shortages.
+The number of live births per 1,000 people in the population in one year.
+The number of deaths per 1,000 people in the population in one year.
+The change in population size caused by the balance between births and deaths (it excludes migration in its narrow sense).
+It is found from birth rate minus death rate, or (births − deaths) in a time period, often expressed as a % or per 1,000.
+The count of all people in an area (or country) at a given time; a single total at one moment.
+The number of deaths of children under one year old per 1,000 live births in a year.
+The average number of years a person in a place or group is expected to live, if current death rates continue.
+The ratio of people not in the working age group (dependents) to the working-age population, often as a % or a ratio to 100 workers.
+A population structure with a high and rising share of older people, usually linked to low birth rates and long life expectancy.
+A population with a high proportion of young people and a high birth rate, often shown as a wide base on a population pyramid.
+The movement of people to live in a new place, usually when crossing a clear boundary, for a long period or permanently.
+The movement of people into a place or country to live (in-migration).
+The movement of people out of a place or country to live elsewhere (out-migration).
+Negative conditions that make people want to leave a place, e.g. poverty, war, or lack of jobs.
+Advantages that attract people to a place, e.g. jobs, family links, or better services; reasons to come to a destination.
+Movement where people are compelled to move by conflict, human rights abuse, or disaster, without a real free choice; includes refugees in many cases.
+Migration people choose, mainly for economic or family reasons, when they are not forced to go.
+Movement of people from rural areas to towns and cities, often for jobs, services, and education; rural-to-urban shift.
+The growth in the share of a country’s (or world’s) population living in urban areas, and the building of more towns and cities.
+The way a population is spread out over a region, e.g. clustered, even, or sparse; the pattern in space, often mapped as density.
+A diagram (often a pair of back-to-back or stacked bars) of population by five-year age groups and sex, showing a population’s structure.
+A very young age structure, high birth rate, and rapid population growth, shown by many people in the youngest groups at the base.
+A low share of people in the oldest age groups, e.g. because of a falling population, low life expectancy, or past high death rates; often a small top to the diagram.
+The maximum population (or use level) that an area’s environment and resources can support over a long time without long-term damage.
+Rules and programmes by a government to influence population (birth rate, age structure) or sometimes migration, e.g. through laws, cash benefits, or education.
+A policy to encourage a higher birth rate, e.g. through child benefits, parental leave, or pro-family messages.
+A policy to limit births, e.g. one-child type rules, free contraception, and education to reduce family size.
+The long-run fertility (about 2.1 children per couple in HICs) that would keep population size stable if nothing else changes.
+A migrant who moves mainly to get better-paid work, rather than to flee war or persecution.
+A person who has been forced to leave their country, due to a well-founded fear of persecution, war, or violence, and seeks another state’s protection.
+A person who has left their own country, applied in another for protection, and is waiting for a decision on whether they are a refugee.
+The annual % change in total population, including natural change and, in full definitions, net migration, shown as a % of the total.
+An official count of everyone in a country, usually on a set day, to collect data on who lives where; often every five or ten years.
+A model of how total population, birth rate, and death rate change in stages as a country’s economy and society develop, from high BR/DR to low BR/DR and ageing.
+People moving to live in another part of the same country, without changing country, e.g. to find a job; internal migration.
+People moving to live in another country, across an international border, for a long time or to settle in that country.
+A place where people have their homes, from a few houses to a large city, i.e. a group of buildings where people live.
+The physical features of a place where a settlement is built, e.g. good drainage, water supply, and defendable or dry ground.
+How a place is set relative to other places, e.g. on a route, near resources, and its links to larger centres (access and connectivity), i.e. its situation in the area.
+A small settlement, usually in the countryside, with few services and a low population density, i.e. rural.
+A large, built-up place, non-agricultural in main function, with many people, jobs, and services, i.e. a town or city in character; urban.
+A very small cluster of a few homes, the smallest in the size hierarchy, with few or no services.
+A settlement larger than a hamlet, with a small set of local services, e.g. a shop, school, and church, often in rural areas.
+A medium-sized place with a wider than local set of services and jobs, but smaller than a city, i.e. a town, not a village or a city in scale.
+A large place with a wide range of services, jobs, and often regional government or culture; often above a set population or by function, i.e. a city.
+A very large city, usually over 10 million people, often formed by merging of built-up areas, i.e. a huge city region, megacity.
+The ordering of settlements from largest (e.g. city) with the most and highest-level services, down to the smallest (e.g. hamlet) with only basic or few.
+The area from which a settlement or a service draws its customers, workers, or support; the area “influenced” by that centre, often in travel time.
+In geography, a part of the economy (or a business) that does not make physical products but provides something people use, e.g. retail, health, or transport.
+The minimum number of people needed in an area to support a service and keep that service viable, i.e. the minimum “market” size.
+The maximum distance people will travel to use a service, or the distance a good or service is supplied, often in km or minutes, i.e. service range.
+The type of use an area of land is put to, e.g. housing, industry, farming, or transport, as shown on a land-use map, i.e. what the land is used for.
+The central zone of a city, with offices, key shops, and very high land values; the core business and retail heart of the urban area, Central Business District.
+The zone of older, often inner-city, housing and mixed use around the CBD, sometimes with decline or regeneration, i.e. the inner city ring.
+The edge of the built-up area where the city meets the countryside, often with new housing and industry, i.e. the urban-rural edge.
+The movement of middle-class and wealthier people from inner cities to suburbs and the urban fringe, often for a better house and environment.
+The spreading of a city outward over rural land, often in a low-density, car-based form, with loss of open land, i.e. urban growth without tight planning, sprawl.
+People and investment moving back into the inner city, often to new flats, converted warehouses, and waterfronts, i.e. city-centre living reviving, re-urbanisation.
+The movement of people, jobs, and services out of big cities to smaller towns, villages, or the countryside, often for quality of life, counter-urbanisation.
+A poor, self-built, often unplanned area of makeshift homes, with little or poor services, common on the edge of many LIC/MIC cities, i.e. shanty town, informal area.
+A settlement of homes built on land the residents do not legally own, without planning permission, often with few services, i.e. squatter or informal housing.
+Economic activities that are not officially registered, taxed, or regulated, e.g. street selling and unregistered work, the informal (shadow) sector.
+Economic activities that are legal, registered, and taxed, with normal labour and business rules, i.e. the official economy, formal sector.
+The planned improvement and rebuilding of an old urban area, e.g. new housing, shops, and public space on run-down land, i.e. urban renewal or regeneration.
+The process by which richer people move into a low-income area, property prices rise, and original residents are priced out, changing the area’s social character.
+Land that has been built on or used for development before, e.g. an old factory site, re-used before building on new countryside, i.e. previously developed, brownfield.
+Land that has not been built on before, usually in the open countryside, used for new development, i.e. a greenfield site, open field site.
+A person who lives in one place (e.g. a suburb) and travels to work or study in another, usually daily, i.e. a daily journey-to-work person.
+The highest land and property values, usually in or near the CBD, where people pay most to be near the most accessible sites, i.e. the peak value point.
+A zone planned or used mainly for factories, industry, and warehouses, with limited housing, an industrial or factory zone.
+A zone where most land is for housing, with little heavy industry, i.e. a mainly residential or housing area.
+A zone of shops, offices, and services, often in or near the city centre, i.e. retail and business, commercial use.
+A linked system of roads, railways, paths, and ports (and sometimes air) that moves people, goods, and information between places, i.e. the transport system.
+The control and design of how land in towns and cities is used, through plans, transport, and zoning, to make places work better, i.e. town or urban planning.
+A city that tries to meet people’s present social, economic, and environmental needs without stopping future people meeting theirs, i.e. sustainable development at the city level.
+When vehicles on a road or network are so many that flow slows, delays grow, and time and fuel are wasted, i.e. road congestion, traffic jams, traffic congestion.
+A body of water flowing in a natural channel, from a source to a sea, lake, or other water body, i.e. a natural watercourse, river, or large stream.
+The area of land drained by a river and all of its tributaries, bounded by a watershed; the river’s catchment or drainage basin.
+A line of high land separating two drainage basins, i.e. a drainage divide, watershed, or catchment edge.
+A smaller stream or river that flows into a larger one, a feeder or joining stream, which is called a tributary.
+The point where two rivers or streams meet and their channel waters combine, a river junction, i.e. a confluence.
+The place where a river begins, often a spring, marsh, or meltwater in the upper course, i.e. the river source or headwaters.
+The end of a river where it enters the sea, lake, or another river, often with a delta or estuary, i.e. the river mouth.
+The wearing away of rock and soil by moving water, ice, wind, or mass movement, i.e. erosion in the Earth’s surface sense.
+Where water is forced into cracks in rock and widens them, helping to break rock apart, in rivers and on coasts, hydraulic action.
+Where load carried by water scours and grinds the river bed and banks, wearing them down, abrasion in a river.
+Where rock fragments carried in the flow hit each other and become rounder and smaller, attrition.
+Where slightly acidic water dissolves soluble rock (e.g. limestone) in the channel, solution (or corrosion) in rivers.
+The movement of weathered material by the river’s flow, using traction, saltation, suspension, and solution, i.e. river transport processes.
+Where large boulders and pebbles are rolled along the river bed, traction.
+Where smaller pebbles bounce in short hops along the bed, saltation.
+Where fine silt and clay are held up in the water, suspension.
+Where the river loses energy and drops its load, building features like point bars and deltas, deposition.
+The steep section near the source, with V-shaped valleys, rapids, and vertical erosion dominant, upper course.
+The gentler section with meanders and lateral erosion and some deposition, middle course.
+The low-lying section with a wide floodplain, meanders, and deposition near the mouth, lower course.
+A steep-sided valley with a narrow floor, typical of vertical erosion in the upper course, a V-shaped valley.
+Ridges of high land that a meandering river erodes around in interlocking sides, interlocking spurs.
+A sudden drop in a river’s long profile, often where hard rock lies over soft, a waterfall.
+A deep, narrow valley formed by retreat of a waterfall or rapid vertical erosion in a steep section, a gorge.
+A bend in a river’s course with erosion on the outside and deposition on the inside, a meander.
+A cut-off bend that becomes a curved lake beside the new channel, an oxbow lake.
+The flat area of land beside a river that floods when the river overflows, built of deposited alluvium, floodplain.
+A raised bank along a river built from repeated flooding and deposition of silt, a levee.
+A fan or fingers of deposited material at a river mouth where the flow slows and spreads, a delta.
+The tidal mouth of a river where fresh and salt water mix, often funnel-shaped, an estuary.
+The volume of water passing a point per second (m³/s), river discharge.
+The speed of water flow in a channel, usually m/s, velocity.
+A graph of river discharge over time after rainfall, showing rising limb, peak, and falling limb, a flood hydrograph.
+The time between peak rainfall and peak river discharge, lag time.
+The maximum discharge shown on a hydrograph during a flood event, peak discharge.
+The movement of water from the surface into the soil and rock, infiltration.
+Water flowing over the land surface when rainfall exceeds infiltration rate, surface runoff (overland flow).
+Rain caught and held by vegetation before it reaches the ground, interception.
+The slow movement of water through soil and rock toward the river, groundwater flow (throughflow and baseflow).
+How easily water can pass through rock or soil, permeability.
+The narrow zone where land meets the sea, including cliffs, beaches, and estuaries, the coast.
+The removal of material from the coast by waves and other processes, coastal erosion.
+Where waves compress air in cracks and widen them, breaking rock, hydraulic action at the coast.
+Where wave-borne pebbles scrape and smooth the cliff and bedrock, abrasion at the coast.
+Where rock pieces in the surf zone hit each other and become smaller and rounder, attrition at the coast.
+Movement of beach material along the shore in the direction of the prevailing longshore current, longshore drift.
+Where waves lose energy and drop sand, shingle, or mud, building beaches and spits, coastal deposition.
+An area of resistant rock sticking out into the sea, often with caves and arches, a headland.
+An inlet of sea between two headlands where softer rock has been eroded, a bay.
+A steep rock face at the coast formed by marine erosion, a cliff.
+A wide, flat rock platform left in front of a retreating cliff as the cliff is cut back, a wave-cut platform.
+A hole in a cliff base widened by wave action, a sea cave.
+Where two caves on either side of a headland join to form a rock arch, an arch.
+An isolated pillar of rock left when an arch roof collapses, a stack.
+The base of a stack after the top has fallen, a stump.
+A deposit of sand or shingle between high and low tide, a beach.
+A narrow bank of sand or shingle joined to the land at one end, built by longshore drift, a spit.
+A ridge of deposited material across a bay or river mouth, closing off water behind, a bar (e.g. offshore or bay bar).
+A spit that links an island to the mainland, a tombolo.
+Shallow water trapped behind a bar or spit, often brackish, a lagoon.
+A low, long wave with a strong swash that deposits material on the beach, a constructive (swash-dominated) wave.
+A high, steep wave with a strong backwash that erodes the beach, a destructive (backwash-dominated) wave.
+The movement of water and sediment up the beach after a wave breaks, swash.
+The movement of water and sediment back down the beach, backwash.
+The distance of open water over which wind drives waves; longer fetch means larger waves, fetch.
+A hard wall built on the beach or cliff foot to stop waves reaching land, a sea wall.
+A fence-like structure at right angles to the beach to trap moving sediment and slow longshore loss, a groyne.
+Large boulders placed at the cliff foot or on the beach to absorb wave energy, rock armour, rip-rap.
+Wire baskets filled with stone used to stabilise slopes or the cliff base, a gabion.
+Letting the coast move landward and flooding low land instead of hard defence, managed retreat, coastal realignment.
+Flooding of coastal land from high sea level, big waves, or a storm surge, coastal flooding.
+A dome of high sea under a low-pressure storm, pushed onshore, raising water level and often causing coastal flood, a storm surge.
+Waves slow and bend in shallower water so they line up with the coast; energy focuses on headlands, wave refraction.
+Downslope movement of material under gravity, e.g. slumps and slides, mass movement, mass wastage.
+Where a mass of material rotates and moves along a curved slip surface, a slump.
+Where rock or debris falls quickly down a steep face, a rockfall.
+Where wind builds a ridge of sand inland from a beach, often with marram grass, a dune, sand dune.
+A low-energy coastal salt-tolerant community (e.g. cord grass) in the tidal zone, a salt marsh.
+The living and non-living systems of the coast interacting, e.g. dunes, rock pools, and marshes, a coastal ecosystem.
+Defences and land-use planning that protect people and the environment in the long term, sustainable coastal management.
+The state of the atmosphere at a place over a short time (hours to days), i.e. day-to-day conditions, weather.
+The average pattern of weather over a long period (30+ years) in a place, i.e. climate.
+A measure of how hot or cold the air (or a surface) is, usually in °C, temperature.
+Any moisture falling from the air to the ground: rain, snow, sleet, or hail, precipitation.
+The force of the air pushing on a surface, shown on weather maps, often in millibars, air (barometric) pressure.
+The amount of water vapour in the air, often shown as relative humidity, humidity.
+The change of liquid water to water vapour, adding moisture to the air, evaporation.
+The change of water vapour to liquid or ice, e.g. forming clouds, condensation.
+The continuous movement of water between the sea, air, and land, driven by the sun, the hydrological (water) cycle, water cycle.
+Rain caused when warm moist air is forced to rise over mountains, cooling to condense, relief (orographic) rainfall.
+Intense surface heating that makes air rise and form cumulus clouds and heavy rain, often in the tropics, convectional rainfall.
+Rain when warm and cold air masses meet at a front; the warm air rises, cools, and condenses, frontal (cyclonic) rainfall.
+Lines on a weather map joining places of equal air pressure, used to show pressure pattern, isobars.
+A low-pressure system (cyclone) with rising air, cloud, and often rain and strong winds, in mid-latitudes called a depression.
+A high-pressure system with sinking air, often clear skies and light winds, an anticyclone.
+The natural process where certain gases in the atmosphere trap outgoing heat, warming the surface, the greenhouse effect.
+The long-term rise in average global temperatures linked to human extra greenhouse gases, global warming.
+Long-term change in temperature, rainfall, storm patterns, or sea level, including human and natural causes, climate change.
+The total greenhouse gas emissions caused by a person, product, or place, often in CO₂ equivalent, a carbon footprint.
+An energy source that is naturally renewed (e.g. sun, wind, water) and not used up on a human timescale, renewable energy.
+A long period when rainfall is much below normal, causing water shortage and crop stress, a drought.
+When water covers land that is usually dry, from heavy rain, storm surge, or snowmelt, a flood.
+Unusually severe heat, cold, storm, or rainfall away from the long-term average, an extreme weather event.
+A natural process (e.g. earthquake, flood) that can harm people and property, a natural hazard.
+The chance that a hazard will occur and cause harm, combining hazard, exposure, and vulnerability, risk in geography.
+Actions to reduce causes or size of a hazard or emissions, e.g. building codes or cutting CO₂, mitigation.
+Changes in behaviour, design, or planning to cope with hazard or climate effects that cannot be fully stopped, adaptation.
+A sudden shaking of the ground caused by movement at a plate boundary or along a fault, releasing stress, an earthquake.
+Movement and stress release at plate boundaries or along faults when rock breaks and slips, what causes earthquakes.
+A line where two tectonic plates meet, with different relative motion, a plate boundary.
+Where plates move apart; magma may rise and new crust forms, e.g. mid-ocean ridge, constructive (divergent) boundary.
+Where plates collide; one may be subducted, with earthquakes, volcanoes, and mountains, destructive (convergent) boundary.
+Where plates slide past each other horizontally, with earthquakes but little volcanism, conservative (transform) boundary.
+The point on the Earth’s surface directly above the earthquake focus, where shaking is often strongest, the epicentre.
+The point inside the Earth where the earthquake slip starts, at depth, the focus (or hypocentre).
+A vent through which magma reaches the surface, often building a cone, a volcano.
+Molten rock stored beneath the surface, within the Earth, magma.
+Molten rock that has erupted onto the surface, lava.
+An intense rotating low-pressure storm over tropical oceans, with very strong winds and heavy rain, tropical cyclone or hurricane.
+Warm sea (about 26 °C+), moisture, and Coriolis spin allow a low to deepen into a rotating storm, causes of tropical storms.
+A series of very long-wavelength sea waves, often from undersea earthquakes or landslides, a tsunami.
+Displacement of water from seafloor earthquakes, volcanoes, or large landslides into the sea, what creates a tsunami.
+A logarithmic scale of earthquake size based on shaking recorded (used historically), the Richter scale (magnitude scale).
+The amount of energy released at the source of an earthquake, shown as a single magnitude number, what magnitude measures.
+An instrument that records ground motion and draws a seismogram, a seismograph.
+A broad, gently sloping volcano made of runny lava flows, with non-explosive eruptions, a shield volcano.
+A steep-sided volcano made of layers of lava and ash, with explosive and viscous lava, a composite (strato) volcano.
+A bowl-shaped depression at a volcano’s summit, a crater.
+The release of magma, gas, and ash from a volcano, an eruption.
+Ash and fine particles blown high into the atmosphere during a volcanic eruption, an ash cloud.
+Damage or death that happens at the same time as the hazard, e.g. buildings collapsing in an earthquake, primary effect.
+Problems that follow the primary event, e.g. disease after flooding or fires after earthquake, secondary effect.
+Immediate help in the first hours and days: rescue, shelter, food, and medical care, short-term response.
+Rebuilding, insurance, better building standards, and recovery over months to years, long-term response.
+Organised ways to reduce harm from hazards: predict, prepare, respond, and recover, hazard management.
+Using science to state when/where a hazard may happen, hazard prediction.
+Education, drills, and plans so people know what to do before a hazard, preparedness.
+Continuous observation of volcanoes, earthquakes, or weather to give early warning, hazard monitoring.
+Moving people out of a dangerous area before or during a hazard, evacuation.
+An area mapped as likely to be hit by a hazard, with rules on building and use, a hazard zone.
+The conditions of a place or group that make harm from a hazard more likely, vulnerability.
+The ability of a community or system to recover from or adapt to a hazard, resilience.
+Money, goods, or experts given to help after a hazard, from governments or NGOs, aid in hazard management.
+Help sent from other countries after a disaster, e.g. relief flights and funds, international aid.
+Actions by local people, communities, and councils right after a hazard, local response.
+National laws, funding, and military or civil defence organised by the state, government response.
+Rebuilding infrastructure, homes, and livelihoods after damage, reconstruction.
+Identifying probability and impact of hazards to guide planning and insurance, risk assessment.
+A rise in sea surface under a storm that floods coasts when combined with wind and waves, a storm surge (hazard context).
+The calm, clear, low-wind centre of a tropical storm, the eye.
+A scale (e.g. Saffir–Simpson) that groups storms by wind speed and damage potential, category scale for storms.
+When water covers land as a harmful event, including from rivers or sea, flooding as a hazard.
+Heavy rain, snowmelt, or blocked channel increasing discharge beyond channel capacity, causes of river flooding.
+Storm surge, high tides, or low pressure raising sea level onto the land, causes of coastal flooding.
+Material moving downslope as a coherent or broken mass on a slip surface, a landslide.
+A fast flow of mud and debris down a valley, often after heavy rain, a mudflow.
+Rocks or debris falling freely down a steep slope, a rockfall (slope hazard context).
+Design and materials that reduce damage in earthquakes, wind, or floods, hazard-resistant building.
+Official messages and technology that warn people before a hazard arrives, early warning system.
+Immediate food, shelter, and supplies after a disaster, disaster relief.
+Temporary housing for people who have lost homes, emergency shelter.
+Food supplied to people who cannot obtain it after a disaster, food aid.
+Doctors, medicine, and hospitals sent to treat the injured, medical aid.
+Teams that find and help people trapped after a collapse or flood, search and rescue.
+Broken roads, power, water, and communications after a hazard, infrastructure damage.
+Lost jobs, business, and reconstruction cost from a hazard, economic loss.
+Harm to ecosystems, soil, water, and air from a hazard or its effects, environmental damage.
+People forced to leave home but still in the country, or mass movement away from danger, population displacement.
+A camp of temporary shelter for refugees or displaced people, often with UN or NGO support, refugee camp.
+A map showing where different hazards are likely or severe, for planning, a hazard map.
+Using planning rules to ban or limit building in dangerous areas, zoning in hazard management.
+Spreading the cost of damage through policies that pay out after events, insurance in hazard management.
+Local training, plans, and networks so people know what to do, community preparedness.
+A practice exercise to test response to earthquakes, fires, or storms, a drill in hazard preparation.
+Structural and non-structural actions that lower probability or impact of harm, risk reduction.
+The repeating stages of hazard work: mitigation, preparedness, response, and recovery, often shown as a cycle, disaster management cycle.
+A hazard driven or made worse by climate, e.g. drought, storm, or sea-level rise, climate-related hazard.
+A hazard from Earth’s plates, e.g. earthquake, volcano, or tsunami, tectonic hazard.
+A place exposed to several different hazard types at once, a multi-hazard environment.
+Managing hazards so needs of people today are met without harming future generations’ ability to cope, sustainability in hazard management.
+The process of improving people’s well-being and quality of life, including economic and social progress, development.
+Growth in income, jobs, and output, often measured by rising GDP or GNI per person, economic development.
+Improvements in health, education, equality, and rights, not only money, social development.
+The total value of goods and services produced in a country in a year, GDP.
+The total income earned by a country’s people and firms (including from abroad), often per person, GNI.
+A composite index using life expectancy, education, and income to compare well-being between countries, HDI.
+The % of adults who can read and write, literacy rate.
+The average years a newborn is expected to live if current death rates continue, life expectancy (development context).
+Deaths of infants under one per 1,000 live births, a key health indicator, infant mortality rate (development).
+The level of material comfort, income, and services people can access, standard of living.
+A person’s overall well-being, including health, environment, and happiness, not only income, quality of life.
+Uneven distribution of wealth, opportunity, or outcomes between people or places, inequality.
+A lack of resources to meet basic needs, often measured by an income or multi-dimensional line, poverty.
+Poverty defined by a fixed minimum income or consumption line, below which needs are not met, absolute poverty.
+Poverty compared to the average or typical living standard in a society, relative poverty.
+A measurable figure used to describe development, e.g. GNI per capita or life expectancy, development indicator.
+Economic activities that extract raw materials, e.g. farming, fishing, mining, primary sector.
+Manufacturing and construction that process materials into goods, secondary sector.
+Services such as retail, health, education, and finance, tertiary sector.
+High-level information, research, and technology services, quaternary sector.
+The growth of factory industry and manufacturing in a country or region, industrialisation.
+Growing links between countries through trade, investment, migration, and media, globalisation.
+A large firm that operates in many countries with production and sales across borders, TNC.
+Money invested in a country from abroad, e.g. building factories, foreign direct investment.
+Money, goods, or technical help given by one country or organisation to support development, aid in development.
+Money owed by a government or firm that must be repaid with interest, debt.
+Buying and selling goods and services between places or countries, trade.
+Goods or services sold to other countries, exports.
+Goods or services bought from other countries, imports.
+The value of exports minus imports; can be surplus or deficit, trade balance.
+Trade that pays farmers and workers fair prices and supports social and environmental standards, fair trade.
+Development that meets present needs without harming future generations’ ability to meet theirs, sustainable development.
+A natural resource replaced as fast as it is used, e.g. timber from well-managed forest, renewable resource.
+A resource formed so slowly that it is effectively finite for human use, e.g. oil, coal, non-renewable resource.
+The mix of energy sources a place uses, e.g. coal, gas, renewables, energy mix.
+Travel away from home for leisure, business, or culture, often a key industry, tourism.
+Very large numbers of visitors to a place, with possible pressure on the environment, mass tourism.
+Responsible travel that conserves nature and supports local people, ecotourism.
+Jobs, income, and foreign exchange from visitors, economic impact of tourism.
+Habitat loss, pollution, and footpath erosion from visitors, environmental impact of tourism.
+Changes in culture, behaviour, and community life from contact with tourists, social impact of tourism.
+Planning use and protection of soils, water, forests, and fish so they last, resource management.
+When demand for water exceeds reliable supply in an area, water scarcity.
+When supply of water comfortably meets needs, water surplus.
+When not enough food is available or affordable for people to be healthy, food shortage.
+Catching fish faster than stocks can replace themselves, overfishing.
+Clearing forest for farms, timber, or roads, often reducing biodiversity, deforestation.
+Dryland becoming desert through climate and human pressure, often with soil loss, desertification.
+The growth of towns and cities and the share of people living in them, urbanisation in development.
+Movement of people seeking work or safety, affecting source and host development, migration in development.
+The gap in income and well-being between the richest and poorest countries or people, development gap.
+A country with low GNI per capita in World Bank terms, often with limited industry, LIC.
+A country between LIC and HIC by income, MIC.
+A country with high GNI per capita; very developed economy, HIC.
+Technology suited to local skills, culture, and environment, often small-scale, appropriate technology.
+Simple, affordable technology between traditional and high-tech, improving lives (e.g. fair trade craft), intermediate technology.
+Small loans to people who cannot borrow from banks, often for micro-business, microfinance loan.
+Basic systems such as roads, power, water, schools, and communications, infrastructure.
+The delivery of electricity, gas, and other energy to homes and firms, energy supply.
+When all people have reliable access to enough safe, nutritious food, food security.
+When people have reliable access to safe, affordable water, water security.
+When a country relies too much on aid and cannot fund its own services, aid dependency.
+A non-profit group working on development or environment, independent of government, NGO.
+Aid given directly by one government to another, government or bilateral-style aid.
+Aid from one country’s government to another’s, bilateral aid.
+Aid channelled through international bodies (e.g. World Bank) for several countries, multilateral aid.
+Rapid help after disaster (food, shelter, medicine), emergency aid.
+Aid for years of projects in health, education, and infrastructure, long-term aid.
+Rules or taxes that limit imports or exports, trade barrier.
+A tax on imported goods, making them more expensive, tariff.
+A limit on how much of a good may be imported, quota.
+A policy to replace imports by producing goods at home, import substitution.
+Growing the economy by selling more goods and services abroad, export-led growth.
+A treaty between countries to reduce barriers to trade between them, free trade agreement.
+Reducing dependence on one product or sector by growing new industries, economic diversification.
+Using up resources faster than they can be replaced, resource depletion.
+Using the environment in a way that keeps ecosystems healthy for the future, environmental sustainability.
+Release of CO₂ and other greenhouse gases, often from burning fossil fuels, carbon emissions.
+Building more wind, solar, and other renewable capacity, renewable energy development.
+Rules and practices that balance use and conservation of soil, water, forests, and fisheries, sustainable resource management.

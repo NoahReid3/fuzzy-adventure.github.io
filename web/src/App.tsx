@@ -6,6 +6,9 @@ import { GameMenu } from './components/GameMenu'
 import { SolubilityQuiz } from './components/SolubilityQuiz'
 import { IonChargeQuiz } from './components/IonChargeQuiz'
 import { CaseStudyQuiz } from './components/CaseStudyQuiz'
+import { FactsGame } from './components/FactsGame'
+import { factsQuestions } from './data/factsQuestions'
+import { chemistryQuestions } from './data/chemistryQuestions'
 
 function App() {
   const [selectedGame, setSelectedGame] = useState<GameType>(null)
@@ -56,6 +59,14 @@ function App() {
 
         {selectedGame === 'game3' && (
           <CaseStudyQuiz onBackToMenu={handleBackToMenu} />
+        )}
+
+        {selectedGame === 'game4' && (
+          <FactsGame onBackToMenu={handleBackToMenu} questions={factsQuestions} />
+        )}
+
+        {selectedGame === 'game5' && (
+          <FactsGame onBackToMenu={handleBackToMenu} questions={chemistryQuestions} />
         )}
       </div>
     </div>

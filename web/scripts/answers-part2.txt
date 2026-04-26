@@ -1,0 +1,85 @@
+The place where a river begins, often a spring, marsh, or meltwater in the upper course, i.e. the river source or headwaters.
+The end of a river where it enters the sea, lake, or another river, often with a delta or estuary, i.e. the river mouth.
+The wearing away of rock and soil by moving water, ice, wind, or mass movement, i.e. erosion in the Earth’s surface sense.
+Where water is forced into cracks in rock and widens them, helping to break rock apart, in rivers and on coasts, hydraulic action.
+Where load carried by water scours and grinds the river bed and banks, wearing them down, abrasion in a river.
+Where rock fragments carried in the flow hit each other and become rounder and smaller, attrition.
+Where slightly acidic water dissolves soluble rock (e.g. limestone) in the channel, solution (or corrosion) in rivers.
+The movement of weathered material by the river’s flow, using traction, saltation, suspension, and solution, i.e. river transport processes.
+Where large boulders and pebbles are rolled along the river bed, traction.
+Where smaller pebbles bounce in short hops along the bed, saltation.
+Where fine silt and clay are held up in the water, suspension.
+Where the river loses energy and drops its load, building features like point bars and deltas, deposition.
+The steep section near the source, with V-shaped valleys, rapids, and vertical erosion dominant, upper course.
+The gentler section with meanders and lateral erosion and some deposition, middle course.
+The low-lying section with a wide floodplain, meanders, and deposition near the mouth, lower course.
+A steep-sided valley with a narrow floor, typical of vertical erosion in the upper course, a V-shaped valley.
+Ridges of high land that a meandering river erodes around in interlocking sides, interlocking spurs.
+A sudden drop in a river’s long profile, often where hard rock lies over soft, a waterfall.
+A deep, narrow valley formed by retreat of a waterfall or rapid vertical erosion in a steep section, a gorge.
+A bend in a river’s course with erosion on the outside and deposition on the inside, a meander.
+A cut-off bend that becomes a curved lake beside the new channel, an oxbow lake.
+The flat area of land beside a river that floods when the river overflows, built of deposited alluvium, floodplain.
+A raised bank along a river built from repeated flooding and deposition of silt, a levee.
+A fan or fingers of deposited material at a river mouth where the flow slows and spreads, a delta.
+The tidal mouth of a river where fresh and salt water mix, often funnel-shaped, an estuary.
+The volume of water passing a point per second (m³/s), river discharge.
+The speed of water flow in a channel, usually m/s, velocity.
+A graph of river discharge over time after rainfall, showing rising limb, peak, and falling limb, a flood hydrograph.
+The time between peak rainfall and peak river discharge, lag time.
+The maximum discharge shown on a hydrograph during a flood event, peak discharge.
+The movement of water from the surface into the soil and rock, infiltration.
+Water flowing over the land surface when rainfall exceeds infiltration rate, surface runoff (overland flow).
+Rain caught and held by vegetation before it reaches the ground, interception.
+The slow movement of water through soil and rock toward the river, groundwater flow (throughflow and baseflow).
+How easily water can pass through rock or soil, permeability.
+The narrow zone where land meets the sea, including cliffs, beaches, and estuaries, the coast.
+The removal of material from the coast by waves and other processes, coastal erosion.
+Where waves compress air in cracks and widen them, breaking rock, hydraulic action at the coast.
+Where wave-borne pebbles scrape and smooth the cliff and bedrock, abrasion at the coast.
+Where rock pieces in the surf zone hit each other and become smaller and rounder, attrition at the coast.
+Movement of beach material along the shore in the direction of the prevailing longshore current, longshore drift.
+Where waves lose energy and drop sand, shingle, or mud, building beaches and spits, coastal deposition.
+An area of resistant rock sticking out into the sea, often with caves and arches, a headland.
+An inlet of sea between two headlands where softer rock has been eroded, a bay.
+A steep rock face at the coast formed by marine erosion, a cliff.
+A wide, flat rock platform left in front of a retreating cliff as the cliff is cut back, a wave-cut platform.
+A hole in a cliff base widened by wave action, a sea cave.
+Where two caves on either side of a headland join to form a rock arch, an arch.
+An isolated pillar of rock left when an arch roof collapses, a stack.
+The base of a stack after the top has fallen, a stump.
+A deposit of sand or shingle between high and low tide, a beach.
+A narrow bank of sand or shingle joined to the land at one end, built by longshore drift, a spit.
+A ridge of deposited material across a bay or river mouth, closing off water behind, a bar (e.g. offshore or bay bar).
+A spit that links an island to the mainland, a tombolo.
+Shallow water trapped behind a bar or spit, often brackish, a lagoon.
+A low, long wave with a strong swash that deposits material on the beach, a constructive (swash-dominated) wave.
+A high, steep wave with a strong backwash that erodes the beach, a destructive (backwash-dominated) wave.
+The movement of water and sediment up the beach after a wave breaks, swash.
+The movement of water and sediment back down the beach, backwash.
+The distance of open water over which wind drives waves; longer fetch means larger waves, fetch.
+A hard wall built on the beach or cliff foot to stop waves reaching land, a sea wall.
+A fence-like structure at right angles to the beach to trap moving sediment and slow longshore loss, a groyne.
+Large boulders placed at the cliff foot or on the beach to absorb wave energy, rock armour, rip-rap.
+Wire baskets filled with stone used to stabilise slopes or the cliff base, a gabion.
+Letting the coast move landward and flooding low land instead of hard defence, managed retreat, coastal realignment.
+Flooding of coastal land from high sea level, big waves, or a storm surge, coastal flooding.
+A dome of high sea under a low-pressure storm, pushed onshore, raising water level and often causing coastal flood, a storm surge.
+Waves slow and bend in shallower water so they line up with the coast; energy focuses on headlands, wave refraction.
+Downslope movement of material under gravity, e.g. slumps and slides, mass movement, mass wastage.
+Where a mass of material rotates and moves along a curved slip surface, a slump.
+Where rock or debris falls quickly down a steep face, a rockfall.
+Where wind builds a ridge of sand inland from a beach, often with marram grass, a dune, sand dune.
+A low-energy coastal salt-tolerant community (e.g. cord grass) in the tidal zone, a salt marsh.
+The living and non-living systems of the coast interacting, e.g. dunes, rock pools, and marshes, a coastal ecosystem.
+Defences and land-use planning that protect people and the environment in the long term, sustainable coastal management.
+The state of the atmosphere at a place over a short time (hours to days), i.e. day-to-day conditions, weather.
+The average pattern of weather over a long period (30+ years) in a place, i.e. climate.
+A measure of how hot or cold the air (or a surface) is, usually in °C, temperature.
+Any moisture falling from the air to the ground: rain, snow, sleet, or hail, precipitation.
+The force of the air pushing on a surface, shown on weather maps, often in millibars, air (barometric) pressure.
+The amount of water vapour in the air, often shown as relative humidity, humidity.
+The change of liquid water to water vapour, adding moisture to the air, evaporation.
+The change of water vapour to liquid or ice, e.g. forming clouds, condensation.
+The continuous movement of water between the sea, air, and land, driven by the sun, the hydrological (water) cycle, water cycle.
+Rain caused when warm moist air is forced to rise over mountains, cooling to condense, relief (orographic) rainfall.

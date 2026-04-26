@@ -1,0 +1,85 @@
+The repeating stages of hazard work: mitigation, preparedness, response, and recovery, often shown as a cycle, disaster management cycle.
+A hazard driven or made worse by climate, e.g. drought, storm, or sea-level rise, climate-related hazard.
+A hazard from Earth’s plates, e.g. earthquake, volcano, or tsunami, tectonic hazard.
+A place exposed to several different hazard types at once, a multi-hazard environment.
+Managing hazards so needs of people today are met without harming future generations’ ability to cope, sustainability in hazard management.
+The process of improving people’s well-being and quality of life, including economic and social progress, development.
+Growth in income, jobs, and output, often measured by rising GDP or GNI per person, economic development.
+Improvements in health, education, equality, and rights, not only money, social development.
+The total value of goods and services produced in a country in a year, GDP.
+The total income earned by a country’s people and firms (including from abroad), often per person, GNI.
+A composite index using life expectancy, education, and income to compare well-being between countries, HDI.
+The % of adults who can read and write, literacy rate.
+The average years a newborn is expected to live if current death rates continue, life expectancy (development context).
+Deaths of infants under one per 1,000 live births, a key health indicator, infant mortality rate (development).
+The level of material comfort, income, and services people can access, standard of living.
+A person’s overall well-being, including health, environment, and happiness, not only income, quality of life.
+Uneven distribution of wealth, opportunity, or outcomes between people or places, inequality.
+A lack of resources to meet basic needs, often measured by an income or multi-dimensional line, poverty.
+Poverty defined by a fixed minimum income or consumption line, below which needs are not met, absolute poverty.
+Poverty compared to the average or typical living standard in a society, relative poverty.
+A measurable figure used to describe development, e.g. GNI per capita or life expectancy, development indicator.
+Economic activities that extract raw materials, e.g. farming, fishing, mining, primary sector.
+Manufacturing and construction that process materials into goods, secondary sector.
+Services such as retail, health, education, and finance, tertiary sector.
+High-level information, research, and technology services, quaternary sector.
+The growth of factory industry and manufacturing in a country or region, industrialisation.
+Growing links between countries through trade, investment, migration, and media, globalisation.
+A large firm that operates in many countries with production and sales across borders, TNC.
+Money invested in a country from abroad, e.g. building factories, foreign direct investment.
+Money, goods, or technical help given by one country or organisation to support development, aid in development.
+Money owed by a government or firm that must be repaid with interest, debt.
+Buying and selling goods and services between places or countries, trade.
+Goods or services sold to other countries, exports.
+Goods or services bought from other countries, imports.
+The value of exports minus imports; can be surplus or deficit, trade balance.
+Trade that pays farmers and workers fair prices and supports social and environmental standards, fair trade.
+Development that meets present needs without harming future generations’ ability to meet theirs, sustainable development.
+A natural resource replaced as fast as it is used, e.g. timber from well-managed forest, renewable resource.
+A resource formed so slowly that it is effectively finite for human use, e.g. oil, coal, non-renewable resource.
+The mix of energy sources a place uses, e.g. coal, gas, renewables, energy mix.
+Travel away from home for leisure, business, or culture, often a key industry, tourism.
+Very large numbers of visitors to a place, with possible pressure on the environment, mass tourism.
+Responsible travel that conserves nature and supports local people, ecotourism.
+Jobs, income, and foreign exchange from visitors, economic impact of tourism.
+Habitat loss, pollution, and footpath erosion from visitors, environmental impact of tourism.
+Changes in culture, behaviour, and community life from contact with tourists, social impact of tourism.
+Planning use and protection of soils, water, forests, and fish so they last, resource management.
+When demand for water exceeds reliable supply in an area, water scarcity.
+When supply of water comfortably meets needs, water surplus.
+When not enough food is available or affordable for people to be healthy, food shortage.
+Catching fish faster than stocks can replace themselves, overfishing.
+Clearing forest for farms, timber, or roads, often reducing biodiversity, deforestation.
+Dryland becoming desert through climate and human pressure, often with soil loss, desertification.
+The growth of towns and cities and the share of people living in them, urbanisation in development.
+Movement of people seeking work or safety, affecting source and host development, migration in development.
+The gap in income and well-being between the richest and poorest countries or people, development gap.
+A country with low GNI per capita in World Bank terms, often with limited industry, LIC.
+A country between LIC and HIC by income, MIC.
+A country with high GNI per capita; very developed economy, HIC.
+Technology suited to local skills, culture, and environment, often small-scale, appropriate technology.
+Simple, affordable technology between traditional and high-tech, improving lives (e.g. fair trade craft), intermediate technology.
+Small loans to people who cannot borrow from banks, often for micro-business, microfinance loan.
+Basic systems such as roads, power, water, schools, and communications, infrastructure.
+The delivery of electricity, gas, and other energy to homes and firms, energy supply.
+When all people have reliable access to enough safe, nutritious food, food security.
+When people have reliable access to safe, affordable water, water security.
+When a country relies too much on aid and cannot fund its own services, aid dependency.
+A non-profit group working on development or environment, independent of government, NGO.
+Aid given directly by one government to another, government or bilateral-style aid.
+Aid from one country’s government to another’s, bilateral aid.
+Aid channelled through international bodies (e.g. World Bank) for several countries, multilateral aid.
+Rapid help after disaster (food, shelter, medicine), emergency aid.
+Aid for years of projects in health, education, and infrastructure, long-term aid.
+Rules or taxes that limit imports or exports, trade barrier.
+A tax on imported goods, making them more expensive, tariff.
+A limit on how much of a good may be imported, quota.
+A policy to replace imports by producing goods at home, import substitution.
+Growing the economy by selling more goods and services abroad, export-led growth.
+A treaty between countries to reduce barriers to trade between them, free trade agreement.
+Reducing dependence on one product or sector by growing new industries, economic diversification.
+Using up resources faster than they can be replaced, resource depletion.
+Using the environment in a way that keeps ecosystems healthy for the future, environmental sustainability.
+Release of CO₂ and other greenhouse gases, often from burning fossil fuels, carbon emissions.
+Building more wind, solar, and other renewable capacity, renewable energy development.
+Rules and practices that balance use and conservation of soil, water, forests, and fisheries, sustainable resource management.

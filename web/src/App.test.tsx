@@ -1,12 +1,10 @@
-import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
-import { render, screen, waitFor } from '@testing-library/react'
+import { describe, it, expect, vi, beforeEach } from 'vitest'
+import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import App from './App'
 
 // Mock the hooks
 const mockUsePasswordAuth = vi.fn()
-const mockHandleGameSelect = vi.fn()
-const mockHandleBackToMenu = vi.fn()
 
 vi.mock('./hooks/usePasswordAuth', () => ({
   usePasswordAuth: () => mockUsePasswordAuth(),
@@ -31,6 +29,19 @@ vi.mock('./components/IonChargeQuiz', () => ({
 vi.mock('./components/CaseStudyQuiz', () => ({
   CaseStudyQuiz: ({ onBackToMenu }: { onBackToMenu: () => void }) => (
     <div data-testid="case-study-quiz">
+      <button onClick={onBackToMenu}>Back</button>
+    </div>
+  ),
+}))
+
+vi.mock('./components/FactsGame', () => ({
+  FactsGame: ({
+    onBackToMenu,
+  }: {
+    onBackToMenu: () => void
+    questions: { question: string; answer: string }[]
+  }) => (
+    <div data-testid="facts-game">
       <button onClick={onBackToMenu}>Back</button>
     </div>
   ),
@@ -138,7 +149,7 @@ describe('App', () => {
 
   it('renders CaseStudyQuiz when game3 selected', async () => {
     const user = userEvent.setup()
-    
+
     mockUsePasswordAuth.mockReturnValue({
       password: 'HelloWorld',
       message: 'Password correct',
@@ -150,11 +161,53 @@ describe('App', () => {
     })
 
     render(<App />)
-    
+
     const caseStudyButton = screen.getByText('Geography Case Studies Quiz')
     await user.click(caseStudyButton)
-    
+
     expect(screen.getByTestId('case-study-quiz')).toBeInTheDocument()
+  })
+
+  it('renders FactsGame when game4 selected', async () => {
+    const user = userEvent.setup()
+
+    mockUsePasswordAuth.mockReturnValue({
+      password: 'HelloWorld',
+      message: 'Password correct',
+      isCorrect: true,
+      showMessage: false,
+      showMenu: true,
+      handleKeyDown: vi.fn(),
+      handlePasswordChange: vi.fn(),
+    })
+
+    render(<App />)
+
+    const factsButton = screen.getByText('IGCSE Geography Facts')
+    await user.click(factsButton)
+
+    expect(screen.getByTestId('facts-game')).toBeInTheDocument()
+  })
+
+  it('renders FactsGame when game5 selected', async () => {
+    const user = userEvent.setup()
+
+    mockUsePasswordAuth.mockReturnValue({
+      password: 'HelloWorld',
+      message: 'Password correct',
+      isCorrect: true,
+      showMessage: false,
+      showMenu: true,
+      handleKeyDown: vi.fn(),
+      handlePasswordChange: vi.fn(),
+    })
+
+    render(<App />)
+
+    const chemistryButton = screen.getByText('IGCSE Chemistry Facts')
+    await user.click(chemistryButton)
+
+    expect(screen.getByTestId('facts-game')).toBeInTheDocument()
   })
 
   it('returns to menu when back button clicked', async () => {
