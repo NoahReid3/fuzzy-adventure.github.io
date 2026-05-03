@@ -18,6 +18,7 @@ describe('GameMenu', () => {
     expect(screen.getByText(/geography case studies quiz/i)).toBeInTheDocument()
     expect(screen.getByText(/igcse geography facts/i)).toBeInTheDocument()
     expect(screen.getByText(/igcse chemistry facts/i)).toBeInTheDocument()
+    expect(screen.getByText(/igcse computer science facts/i)).toBeInTheDocument()
   })
 
   it('displays correct game titles', () => {
@@ -28,6 +29,7 @@ describe('GameMenu', () => {
     expect(screen.getByText('Geography Case Studies Quiz')).toBeInTheDocument()
     expect(screen.getByText('IGCSE Geography Facts')).toBeInTheDocument()
     expect(screen.getByText('IGCSE Chemistry Facts')).toBeInTheDocument()
+    expect(screen.getByText('IGCSE Computer Science Facts')).toBeInTheDocument()
   })
 
   it('calls onGameSelect with correct game type for enabled games', async () => {
@@ -41,33 +43,33 @@ describe('GameMenu', () => {
     expect(onGameSelect).toHaveBeenCalledTimes(1)
   })
 
-  it('disables game 6', () => {
+  it('enables game 6', () => {
     render(<GameMenu onGameSelect={onGameSelect} />)
 
-    const game6Button = screen.getByText('Game 6').closest('button')
+    const game6Button = screen.getByText('IGCSE Computer Science Facts').closest('button')
 
-    expect(game6Button).toBeDisabled()
+    expect(game6Button).not.toBeDisabled()
   })
 
-  it('shows "Coming Soon" for disabled games', () => {
+  it('shows no "Coming Soon" badges', () => {
     render(<GameMenu onGameSelect={onGameSelect} />)
 
-    expect(screen.getAllByText('Coming Soon')).toHaveLength(1)
+    expect(screen.queryByText('Coming Soon')).not.toBeInTheDocument()
   })
 
-  it('does not call onGameSelect for disabled games', async () => {
+  it('calls onGameSelect for game6', async () => {
     const user = userEvent.setup()
     render(<GameMenu onGameSelect={onGameSelect} />)
 
-    const game6Button = screen.getByText('Game 6').closest('button')
+    const game6Button = screen.getByText('IGCSE Computer Science Facts').closest('button')
     if (game6Button) {
       await user.click(game6Button)
     }
 
-    expect(onGameSelect).not.toHaveBeenCalled()
+    expect(onGameSelect).toHaveBeenCalledWith('game6')
   })
 
-  it('enables games 1, 2, 3, 4, 5', () => {
+  it('enables games 1, 2, 3, 4, 5, 6', () => {
     render(<GameMenu onGameSelect={onGameSelect} />)
 
     const solubilityButton = screen.getByText('Solubility Quiz').closest('button')
@@ -75,12 +77,14 @@ describe('GameMenu', () => {
     const caseStudyButton = screen.getByText('Geography Case Studies Quiz').closest('button')
     const factsButton = screen.getByText('IGCSE Geography Facts').closest('button')
     const chemistryButton = screen.getByText('IGCSE Chemistry Facts').closest('button')
+    const csButton = screen.getByText('IGCSE Computer Science Facts').closest('button')
 
     expect(solubilityButton).not.toBeDisabled()
     expect(ionButton).not.toBeDisabled()
     expect(caseStudyButton).not.toBeDisabled()
     expect(factsButton).not.toBeDisabled()
     expect(chemistryButton).not.toBeDisabled()
+    expect(csButton).not.toBeDisabled()
   })
 
   it('calls onGameSelect for game2', async () => {

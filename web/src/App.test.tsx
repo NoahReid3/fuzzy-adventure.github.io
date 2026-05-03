@@ -37,11 +37,17 @@ vi.mock('./components/CaseStudyQuiz', () => ({
 vi.mock('./components/FactsGame', () => ({
   FactsGame: ({
     onBackToMenu,
+    showDontKnow,
+    timerSeconds,
   }: {
     onBackToMenu: () => void
     questions: { question: string; answer: string }[]
+    showDontKnow?: boolean
+    timerSeconds?: number
   }) => (
     <div data-testid="facts-game">
+      {showDontKnow ? <span data-testid="facts-show-dont-know">show-dont-know</span> : null}
+      {timerSeconds ? <span data-testid="facts-timer-seconds">{timerSeconds}</span> : null}
       <button onClick={onBackToMenu}>Back</button>
     </div>
   ),
@@ -187,6 +193,8 @@ describe('App', () => {
     await user.click(factsButton)
 
     expect(screen.getByTestId('facts-game')).toBeInTheDocument()
+    expect(screen.getByTestId('facts-show-dont-know')).toBeInTheDocument()
+    expect(screen.getByTestId('facts-timer-seconds')).toHaveTextContent('10')
   })
 
   it('renders FactsGame when game5 selected', async () => {
@@ -206,6 +214,27 @@ describe('App', () => {
 
     const chemistryButton = screen.getByText('IGCSE Chemistry Facts')
     await user.click(chemistryButton)
+
+    expect(screen.getByTestId('facts-game')).toBeInTheDocument()
+  })
+
+  it('renders FactsGame when game6 selected', async () => {
+    const user = userEvent.setup()
+
+    mockUsePasswordAuth.mockReturnValue({
+      password: 'HelloWorld',
+      message: 'Password correct',
+      isCorrect: true,
+      showMessage: false,
+      showMenu: true,
+      handleKeyDown: vi.fn(),
+      handlePasswordChange: vi.fn(),
+    })
+
+    render(<App />)
+
+    const computerScienceButton = screen.getByText('IGCSE Computer Science Facts')
+    await user.click(computerScienceButton)
 
     expect(screen.getByTestId('facts-game')).toBeInTheDocument()
   })

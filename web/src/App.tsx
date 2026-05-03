@@ -9,6 +9,7 @@ import { CaseStudyQuiz } from './components/CaseStudyQuiz'
 import { FactsGame } from './components/FactsGame'
 import { factsQuestions } from './data/factsQuestions'
 import { chemistryQuestions } from './data/chemistryQuestions'
+import { computerScienceQuestions } from './data/computerScienceQuestions'
 
 function App() {
   const [selectedGame, setSelectedGame] = useState<GameType>(null)
@@ -62,13 +63,26 @@ function App() {
         )}
 
         {selectedGame === 'game4' && (
-          <FactsGame onBackToMenu={handleBackToMenu} questions={factsQuestions} />
+          <FactsGame
+            onBackToMenu={handleBackToMenu}
+            questions={factsQuestions}
+            showDontKnow
+            timerSeconds={10}
+          />
         )}
 
         {selectedGame === 'game5' && (
           <FactsGame
             onBackToMenu={handleBackToMenu}
             questions={chemistryQuestions}
+            showDontKnow
+          />
+        )}
+
+        {selectedGame === 'game6' && (
+          <FactsGame
+            onBackToMenu={handleBackToMenu}
+            questions={computerScienceQuestions}
             showDontKnow
           />
         )}

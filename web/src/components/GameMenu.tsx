@@ -12,7 +12,8 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
       game === 'game2' ||
       game === 'game3' ||
       game === 'game4' ||
-      game === 'game5'
+      game === 'game5' ||
+      game === 'game6'
     ) {
       onGameSelect(game)
     }
@@ -34,14 +35,16 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
                 game !== 'game2' &&
                 game !== 'game3' &&
                 game !== 'game4' &&
-                game !== 'game5'
+                game !== 'game5' &&
+                game !== 'game6'
               }
               className={`px-6 py-4 text-xl font-semibold rounded-xl shadow-lg transition-all transform ${
                 game === 'solubility' ||
                 game === 'game2' ||
                 game === 'game3' ||
                 game === 'game4' ||
-                game === 'game5'
+                game === 'game5' ||
+                game === 'game6'
                   ? 'bg-blue-500 text-white hover:bg-blue-600 hover:scale-105 active:scale-95'
                   : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
               }`}
@@ -51,7 +54,8 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
                 game !== 'game2' &&
                 game !== 'game3' &&
                 game !== 'game4' &&
-                game !== 'game5' && (
+                game !== 'game5' &&
+                game !== 'game6' && (
                 <span className="block text-sm mt-1 font-normal">Coming Soon</span>
               )}
             </button>

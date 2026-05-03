@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import type { FactItem } from '../types'
 import { useFactsGame } from '../hooks/useFactsGame'
 import { BackButton } from './BackButton'
@@ -8,9 +8,16 @@ type FactsGameProps = {
   questions: FactItem[]
   /** When set, "Random question" is replaced with "Don't know" and a review list is available. */
   showDontKnow?: boolean
+  /** Optional countdown timer per question in seconds. */
+  timerSeconds?: number
 }
 
-export const FactsGame = ({ onBackToMenu, questions, showDontKnow = false }: FactsGameProps) => {
+export const FactsGame = ({
+  onBackToMenu,
+  questions,
+  showDontKnow = false,
+  timerSeconds,
+}: FactsGameProps) => {
   const {
     current,
     total,
@@ -28,6 +35,25 @@ export const FactsGame = ({ onBackToMenu, questions, showDontKnow = false }: Fac
   } = useFactsGame(questions)
 
   const [showUnknownPanel, setShowUnknownPanel] = useState(false)
+  const [timeRemaining, setTimeRemaining] = useState(timerSeconds ?? 0)
+
+  useEffect(() => {
+    if (!timerSeconds) return
+    setTimeRemaining(timerSeconds)
+  }, [timerSeconds, currentIndex, studyingUnknown, total])
+
+  useEffect(() => {
+    if (!timerSeconds || total === 0 || answerVisible) return
+    const timer = setInterval(() => {
+      setTimeRemaining((prev) => Math.max(0, prev - 1))
+    }, 1000)
+    return () => clearInterval(timer)
+  }, [timerSeconds, total, currentIndex, studyingUnknown, answerVisible])
+
+  useEffect(() => {
+    if (!timerSeconds || total === 0 || answerVisible || timeRemaining !== 0) return
+    goNext()
+  }, [timerSeconds, total, answerVisible, timeRemaining, goNext])
 
   const handleBack = () => {
     reset()
@@ -59,6 +85,11 @@ export const FactsGame = ({ onBackToMenu, questions, showDontKnow = false }: Fac
             ? `Card ${currentIndex + 1} of ${total} (don't-know list only)`
             : `Card ${currentIndex + 1} of ${total} (shuffled order)`}
         </p>
+        {timerSeconds && (
+          <p className="text-sm font-semibold text-gray-700 mb-3 text-center">
+            Time left: {timeRemaining}s
+          </p>
+        )}
         {showDontKnow && studyingUnknown && (
           <p className="text-sm font-medium text-amber-800 text-center mb-2">
             You are testing yourself on your don&apos;t-know list.
