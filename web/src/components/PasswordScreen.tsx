@@ -15,7 +15,7 @@ export const PasswordScreen = ({
   onPasswordChange,
   onKeyDown,
 }: PasswordScreenProps) => {
-  const text = 'Hello World'
+  const text = 'GeographicalOcto'
 
   return (
     <div className="text-center w-full relative z-20">

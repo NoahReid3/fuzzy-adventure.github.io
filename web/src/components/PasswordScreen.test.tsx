@@ -21,10 +21,10 @@ describe('PasswordScreen', () => {
     expect(input).toHaveAttribute('type', 'password')
   })
 
-  it('renders "Hello World" text', () => {
+  it('renders "GeographicalOcto" text', () => {
     render(<PasswordScreen {...defaultProps} />)
     
-    expect(screen.getByText('Hello World')).toBeInTheDocument()
+    expect(screen.getByText('GeographicalOcto')).toBeInTheDocument()
   })
 
   it('calls onPasswordChange when input changes', async () => {

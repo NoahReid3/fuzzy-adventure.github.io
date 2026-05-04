@@ -64,11 +64,11 @@ describe('usePasswordAuth', () => {
   })
 
   describe('handleKeyDown', () => {
-    it('correct password (HelloWorld) sets correct state', () => {
+    it('correct password (Morris123) sets correct state', () => {
       const { result } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {
@@ -80,7 +80,7 @@ describe('usePasswordAuth', () => {
       
       expect(result.current.message).toBe('Password correct')
       expect(result.current.isCorrect).toBe(true)
-      expect(result.current.password).toBe('HelloWorld')
+      expect(result.current.password).toBe('Morris123')
     })
 
     it('incorrect password shows error and clears password', () => {
@@ -106,7 +106,7 @@ describe('usePasswordAuth', () => {
       const { result } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {
@@ -126,7 +126,7 @@ describe('usePasswordAuth', () => {
       const { result } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {
@@ -152,7 +152,7 @@ describe('usePasswordAuth', () => {
       const { result } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {
@@ -180,7 +180,7 @@ describe('usePasswordAuth', () => {
       const { result } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {
@@ -210,7 +210,7 @@ describe('usePasswordAuth', () => {
       const { result, unmount } = renderHook(() => usePasswordAuth())
       
       act(() => {
-        result.current.handlePasswordChange('HelloWorld')
+        result.current.handlePasswordChange('Morris123')
       })
       
       act(() => {

@@ -22,7 +22,7 @@ export const usePasswordAuth = () => {
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
     if (e.key === 'Enter') {
-      if (password === 'HelloWorld') {
+      if (password === 'Morris123') {
         setMessage('Password correct')
         setIsCorrect(true)
       } else {

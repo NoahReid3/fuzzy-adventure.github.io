@@ -68,7 +68,7 @@ describe('App', () => {
 
   it('shows GameMenu after correct password', async () => {
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -86,7 +86,7 @@ describe('App', () => {
     const user = userEvent.setup()
     
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -107,7 +107,7 @@ describe('App', () => {
     const user = userEvent.setup()
     
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -128,7 +128,7 @@ describe('App', () => {
     const user = userEvent.setup()
     
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -149,7 +149,7 @@ describe('App', () => {
     const user = userEvent.setup()
 
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -172,7 +172,7 @@ describe('App', () => {
     const user = userEvent.setup()
 
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -193,7 +193,7 @@ describe('App', () => {
     const user = userEvent.setup()
 
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -214,7 +214,7 @@ describe('App', () => {
     const user = userEvent.setup()
     
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
@@ -243,7 +243,7 @@ describe('App', () => {
     const user = userEvent.setup()
     
     mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
+      password: 'Morris123',
       message: 'Password correct',
       isCorrect: true,
       showMessage: false,
