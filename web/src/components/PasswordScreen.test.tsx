@@ -24,7 +24,7 @@ describe('PasswordScreen', () => {
   it('renders "If not now, when?" text', () => {
     render(<PasswordScreen {...defaultProps} />)
     
-    expect(screen.getByText('GeographicalOcto')).toBeInTheDocument()
+    expect(screen.getByText('If not now, when?')).toBeInTheDocument()
   })
 
   it('calls onPasswordChange when input changes', async () => {

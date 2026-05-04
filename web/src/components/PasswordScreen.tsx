@@ -15,7 +15,7 @@ export const PasswordScreen = ({
   onPasswordChange,
   onKeyDown,
 }: PasswordScreenProps) => {
-  const text = 'GeographicalOcto'
+  const text = 'If not now, when?'
 
   return (
     <div className="text-center w-full relative z-20">
