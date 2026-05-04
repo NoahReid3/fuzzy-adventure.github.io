@@ -1,24 +1,19 @@
 import { GameType } from '../types'
 import { gameTitles } from '../data/gameConfig'
 
+const ENABLED_GAMES: Exclude<GameType, null>[] = [
+  'solubility',
+  'game2',
+  'game4',
+  'game5',
+  'game6',
+]
+
 interface GameMenuProps {
   onGameSelect: (game: GameType) => void
 }
 
 export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
-  const handleGameSelect = (game: GameType) => {
-    if (
-      game === 'solubility' ||
-      game === 'game2' ||
-      game === 'game3' ||
-      game === 'game4' ||
-      game === 'game5' ||
-      game === 'game6'
-    ) {
-      onGameSelect(game)
-    }
-  }
-
   return (
     <div className="flex flex-col items-center justify-center mt-8">
       <div className="bg-white/90 rounded-3xl p-8 shadow-2xl backdrop-blur-lg max-w-3xl w-full">
@@ -26,38 +21,14 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
           Select a Game
         </h2>
         <div className="grid grid-cols-2 gap-4">
-          {(['solubility', 'game2', 'game3', 'game4', 'game5', 'game6'] as Exclude<GameType, null>[]).map((game) => (
+          {ENABLED_GAMES.map((game) => (
             <button
               key={game}
-              onClick={() => handleGameSelect(game)}
-              disabled={
-                game !== 'solubility' &&
-                game !== 'game2' &&
-                game !== 'game3' &&
-                game !== 'game4' &&
-                game !== 'game5' &&
-                game !== 'game6'
-              }
-              className={`px-6 py-4 text-xl font-semibold rounded-xl shadow-lg transition-all transform ${
-                game === 'solubility' ||
-                game === 'game2' ||
-                game === 'game3' ||
-                game === 'game4' ||
-                game === 'game5' ||
-                game === 'game6'
-                  ? 'bg-blue-500 text-white hover:bg-blue-600 hover:scale-105 active:scale-95'
-                  : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
-              }`}
+              type="button"
+              onClick={() => onGameSelect(game)}
+              className="px-6 py-4 text-xl font-semibold rounded-xl shadow-lg transition-all transform bg-blue-500 text-white hover:bg-blue-600 hover:scale-105 active:scale-95"
             >
-              {gameTitles[game as Exclude<GameType, null>]}
-              {game !== 'solubility' &&
-                game !== 'game2' &&
-                game !== 'game3' &&
-                game !== 'game4' &&
-                game !== 'game5' &&
-                game !== 'game6' && (
-                <span className="block text-sm mt-1 font-normal">Coming Soon</span>
-              )}
+              {gameTitles[game]}
             </button>
           ))}
         </div>
@@ -65,4 +36,3 @@ export const GameMenu = ({ onGameSelect }: GameMenuProps) => {
     </div>
   )
 }
-

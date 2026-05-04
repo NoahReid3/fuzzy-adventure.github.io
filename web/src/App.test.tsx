@@ -26,14 +26,6 @@ vi.mock('./components/IonChargeQuiz', () => ({
   ),
 }))
 
-vi.mock('./components/CaseStudyQuiz', () => ({
-  CaseStudyQuiz: ({ onBackToMenu }: { onBackToMenu: () => void }) => (
-    <div data-testid="case-study-quiz">
-      <button onClick={onBackToMenu}>Back</button>
-    </div>
-  ),
-}))
-
 vi.mock('./components/FactsGame', () => ({
   FactsGame: ({
     onBackToMenu,
@@ -151,27 +143,6 @@ describe('App', () => {
     await user.click(ionButton)
     
     expect(screen.getByTestId('ion-charge-quiz')).toBeInTheDocument()
-  })
-
-  it('renders CaseStudyQuiz when game3 selected', async () => {
-    const user = userEvent.setup()
-
-    mockUsePasswordAuth.mockReturnValue({
-      password: 'HelloWorld',
-      message: 'Password correct',
-      isCorrect: true,
-      showMessage: false,
-      showMenu: true,
-      handleKeyDown: vi.fn(),
-      handlePasswordChange: vi.fn(),
-    })
-
-    render(<App />)
-
-    const caseStudyButton = screen.getByText('Geography Case Studies Quiz')
-    await user.click(caseStudyButton)
-
-    expect(screen.getByTestId('case-study-quiz')).toBeInTheDocument()
   })
 
   it('renders FactsGame when game4 selected', async () => {

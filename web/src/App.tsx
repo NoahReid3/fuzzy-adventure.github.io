@@ -5,7 +5,6 @@ import { PasswordScreen } from './components/PasswordScreen'
 import { GameMenu } from './components/GameMenu'
 import { SolubilityQuiz } from './components/SolubilityQuiz'
 import { IonChargeQuiz } from './components/IonChargeQuiz'
-import { CaseStudyQuiz } from './components/CaseStudyQuiz'
 import { FactsGame } from './components/FactsGame'
 import { factsQuestions } from './data/factsQuestions'
 import { chemistryQuestions } from './data/chemistryQuestions'
@@ -56,10 +55,6 @@ function App() {
 
         {selectedGame === 'game2' && (
           <IonChargeQuiz onBackToMenu={handleBackToMenu} />
-        )}
-
-        {selectedGame === 'game3' && (
-          <CaseStudyQuiz onBackToMenu={handleBackToMenu} />
         )}
 
         {selectedGame === 'game4' && (
