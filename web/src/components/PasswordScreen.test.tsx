@@ -21,7 +21,7 @@ describe('PasswordScreen', () => {
     expect(input).toHaveAttribute('type', 'password')
   })
 
-  it('renders "GeographicalOcto" text', () => {
+  it('renders "If not now, when?" text', () => {
     render(<PasswordScreen {...defaultProps} />)
     
     expect(screen.getByText('GeographicalOcto')).toBeInTheDocument()
